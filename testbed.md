@@ -49,7 +49,7 @@ Text with extra blank lines above and below
 
 Plain image:
 
-![plain image](/images/photo.jpg)
+![plain image](/images/photo.png)
 
 # Heading 1
 

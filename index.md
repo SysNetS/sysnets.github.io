@@ -38,7 +38,7 @@ SysNetS Lab Research Highlights
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo.png"
   link="research"
   title="Our Research"
   text=text
@@ -61,7 +61,7 @@ SysNetS Lab Projects
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -86,7 +86,7 @@ SysNetS Lab Team
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo.png"
   link="team"
   title="Our Team"
   text=text

@@ -33,7 +33,7 @@ Please find our contact details below
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/photo.png"
   caption="Lorem ipsum"
 %}
 
@@ -43,7 +43,7 @@ Please find our contact details below
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/photo.png"
   caption="Lorem ipsum"
 %}
 
