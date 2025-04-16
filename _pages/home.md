@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "SysNetS Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "SysNetS Lab at University of Texas at Dallas &rarr; LMU."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**News: Our group moved to the University of Texas at Dallas (LMU)!** Join us! 
 
 We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
 
@@ -60,7 +60,7 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 
 We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.SysNetSlab.org/vacancies) **!**
 
 
 

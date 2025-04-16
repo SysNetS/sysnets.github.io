@@ -1,11 +1,29 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Mir Imtiaz Mostafiz
+  photo: mir.jpg
+  info: Ph.D. Student, started Jan 2023
+  email: mmostafi@purdue.edu
+  number_educ: 3
+  education1: Ph.D. Student, Purdue University
+  education2: BSc in CSE, Bangladesh University of Engineering and Technology (BUET)
+  education3: <a href="https://scholar.google.com/citations?user=zZC_7vwAAAAJ&hl=en&oi=ao">Website</a>
+  
+
+- name: Mirza Masfiqur Rahman
+  photo: mirza.jpg
+  info: Ph.D. Student, started June 2022
+  email: rahman75@purdue.edu
+  number_educ: 3
+  education1: Ph.D. Student, Purdue University
+  education2: BSc in CSE, Bangladesh University of Engineering and Technology (BUET)
+  education3: <a href="https://www.mirzamr.net/">Website</a>
+
+- name: Kazi Samin Mubasshir
+  photo: kazi.JPG
+  info: Ph.D. Student, started Aug 2022
+  email: kmubassh@purdue.edu
+  number_educ: 3
+  education1: Ph.D. Student, Purdue University
+  education2: BSc in CSE, Bangladesh University of Engineering and Technology (BUET)
+  education3: <a href="https://www.ksmubasshir.com">Website</a>
 
 

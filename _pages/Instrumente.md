@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "SysNetS Lab - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
