@@ -1,13 +1,14 @@
 ---
-title: "News"
+title: "Khwarizmi Lab - News"
 layout: textlay
-excerpt: "SysNetS Lab at University of Texas at Dallas."
-sitemap: false
+excerpt: "News @ Khwarizmi Lab"
+sitemap: true
 permalink: /allnews.html
 ---
 
 # News
 
 {% for article in site.data.news %}
-<p>{{ article.date }} <br> {{ article.headline | markdownify}}</p>
+<p><b>{{ article.date }}</b> <br>
+<em>{{ article.headline }}</em></p>
 {% endfor %}

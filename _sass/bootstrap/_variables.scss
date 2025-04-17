@@ -358,7 +358,7 @@ $container-lg:                 $container-large-desktop !default;
 //##
 
 // Basics of a navbar
-$navbar-height:                    50px !default;
+$navbar-height:                    65px !default;
 $navbar-margin-bottom:             $line-height-computed !default;
 $navbar-border-radius:             $border-radius-base !default;
 $navbar-padding-horizontal:        floor(($grid-gutter-width / 2)) !default;
@@ -366,12 +366,12 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #f8f8f8 !default;
+$navbar-default-bg:                #fff !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
-$navbar-default-link-color:                $gray-light !default;
-$navbar-default-link-hover-color:          $gray-dark !default;
+$navbar-default-link-color:                #000 !default;
+$navbar-default-link-hover-color:          #0e0e0ed8 !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            transparent !default;
@@ -384,7 +384,7 @@ $navbar-default-brand-hover-color:         $navbar-default-link-hover-color !def
 $navbar-default-brand-hover-bg:            transparent !default;
 
 // Navbar toggle
-$navbar-default-toggle-hover-bg:           #fff !default;
+$navbar-default-toggle-hover-bg:           #000 !default;
 $navbar-default-toggle-icon-bar-bg:        $gray-light !default;
 $navbar-default-toggle-border-color:       $gray-lighter !default;
 
@@ -392,7 +392,7 @@ $navbar-default-toggle-border-color:       $gray-lighter !default;
 //=== Inverted navbar
 // Reset inverted navbar basics
 $navbar-inverse-color:                      $gray-light !default;
-$navbar-inverse-bg:                         #fff !default;
+$navbar-inverse-bg:                         #000 !default;
 $navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;
 
 // Inverted navbar links
@@ -609,7 +609,7 @@ $modal-backdrop-bg:           #000 !default;
 $modal-backdrop-opacity:      .5 !default;
 //** Modal header border color
 $modal-header-border-color:   #e5e5e5 !default;
-//** Modal footer border color
+//** Modal  border color
 $modal-footer-border-color:   $modal-header-border-color !default;
 
 $modal-lg:                    900px !default;
@@ -703,7 +703,7 @@ $list-group-link-heading-color: #333 !default;
 //
 //##
 
-$panel-bg:                    #fff !default;
+$panel-bg:                    #881c1c !default;
 $panel-body-padding:          15px !default;
 $panel-heading-padding:       10px 15px !default;
 $panel-footer-padding:        $panel-heading-padding !default;
@@ -711,23 +711,23 @@ $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
 $panel-inner-border:          transparent !default;
-$panel-footer-bg:             #f5f5f5 !default;
+$panel-footer-bg:             #E87722!default;
 
-$panel-default-text:          $gray-dark !default;
+$panel-default-text:          $gray-lighter !default;
 $panel-default-border:        transparent !default;
-$panel-default-heading-bg:    #f5f5f5 !default;
+$panel-default-heading-bg:    $gray-lighter !default;
 
-$panel-primary-text:          #fff !default;
+$panel-primary-text:          $gray-lighter !default;
 $panel-primary-border:        transparent !default;
-$panel-primary-heading-bg:    $brand-primary !default;
+$panel-primary-heading-bg:    $gray-lighter !default;
 
-$panel-success-text:          $state-success-text !default;
+$panel-success-text:          $gray-lighter !default;
 $panel-success-border:        transparent !default;
-$panel-success-heading-bg:    $state-success-bg !default;
+$panel-success-heading-bg:    $gray-lighter !default;
 
-$panel-info-text:             $state-info-text !default;
+$panel-info-text:             $gray-lighter !default;
 $panel-info-border:           transparent !default;
-$panel-info-heading-bg:       $state-info-bg !default;
+$panel-info-heading-bg:       $gray-lighter !default;
 
 $panel-warning-text:          $state-warning-text !default;
 $panel-warning-border:        transparent !default;
