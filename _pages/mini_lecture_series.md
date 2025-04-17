@@ -1,5 +1,5 @@
 ---
-title: "Khwarizmi Lab - AOA"
+title: "SysNetS Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: true

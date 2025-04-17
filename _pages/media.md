@@ -1,7 +1,7 @@
 ---
-title: "Khwarizmi Lab - Media Coverage"
+title: "SysNetS Lab - Media Coverage"
 layout: textlay
-excerpt: "Media Coverage @ Khwarizmi Lab"
+excerpt: "Media Coverage @ SysNetS Lab"
 sitemap: true
 permalink: /media.html
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Khwarizmi Lab - Vacancies"
+title: "SysNetS Lab - Vacancies"
 layout: textlay
-excerpt: "Openings @ Khwarizmi Lab"
+excerpt: "Openings @ SysNetS Lab"
 sitemap: true
 permalink: /vacancies
 ---

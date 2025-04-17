@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Khwarizmi Lab
-email: taqi@umass.edu
+title: SysNetS Lab
+email: karim7@purdue.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the Khwarizmi Lab at The University of Massachusetts Amherst.
+  Website of the SysNetS Lab at The University of Texas at Dallas
 baseurl: ""
 url: ""
 

@@ -1,7 +1,7 @@
 ---
-title: "Khwarizmi Lab - Publications"
+title: "SysNetS Lab - Publications"
 layout: gridlay
-excerpt: "Khwarizmi Lab -- Publications."
+excerpt: "SysNetS Lab -- Publications."
 sitemap: true
 permalink: /publications/
 ---

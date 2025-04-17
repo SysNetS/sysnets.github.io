@@ -1,14 +1,14 @@
 ---
-title: "Khwarizmi Lab - Research"
+title: "SysNetS Lab - Research"
 layout: textlay
-excerpt: "Khwarizmi Lab -- Research"
+excerpt: "SysNetS Lab -- Research"
 sitemap: true
 permalink: /research/
 ---
 
 # Research
 
-Inspiring from the work of <a href="https://en.wikipedia.org/wiki/Al-Khwarizmi" target="_blank">Al-Khwarizmi <i class="fa fa-external-link"></i></a>, the Khwarizmi lab at UMass Amherst is dedicated to undertake fundamental research topics that solve the challenging problems lying at the intersection of systems and algorithms. In particular, we develop secure and effective solutions in FinTech, Quantum Networks, and Critical Infrastructures -- such as 5G Mobile Networks, and Industrial Control Systems.
+Inspiring from the work of <a href="https://en.wikipedia.org/wiki/Al-SysNetS" target="_blank">Al-SysNetS <i class="fa fa-external-link"></i></a>, the SysNetS lab at UMass Amherst is dedicated to undertake fundamental research topics that solve the challenging problems lying at the intersection of systems and algorithms. In particular, we develop secure and effective solutions in FinTech, Quantum Networks, and Critical Infrastructures -- such as 5G Mobile Networks, and Industrial Control Systems.
 
 Our work brings innovation in building secure and reliable networked systems. Our research identifies fundamental open questions and explores them from various angles. It contributes to better understanding of the state-of-the-art network systems by challenging their operational efficacy, and identifying unexplored aspects at their heterogeneity. It provides simple and innovative solutions from system designs to their operations through verification.
 

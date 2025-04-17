@@ -1,7 +1,7 @@
 ---
-title: "Khwarizmi Lab - News"
+title: "SysNetS Lab - News"
 layout: textlay
-excerpt: "News @ Khwarizmi Lab"
+excerpt: "News @ SysNetS Lab"
 sitemap: true
 permalink: /allnews.html
 ---

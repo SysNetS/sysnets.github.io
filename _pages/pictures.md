@@ -1,7 +1,7 @@
 ---
-title: "Khwarizmi Lab - Pictures"
+title: "SysNetS Lab - Pictures"
 layout: piclay
-excerpt: "Khwarizmi Lab -- Pictures"
+excerpt: "SysNetS Lab -- Pictures"
 sitemap: true
 permalink: /pictures/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Khwarizmi Lab - Team"
+title: "SysNetS Lab - Team"
 layout: gridlay
-excerpt: "Khwarizmi Lab: Team members"
+excerpt: "SysNetS Lab: Team members"
 sitemap: true
 permalink: /team/
 ---

@@ -1,5 +1,5 @@
-# Khwarizmi Lab @ UMass Amherst
+# SysNetS Lab @ UTD
 
-This is the website of our academic research group in the Department of Electrical and Computer Engineering at University of Massachusetts Amherst, MA.
+This is the website of our academic research group in the Department of Computer Science at University of Texas at Dallas, TX.
 
-Copyright Advanced Computing Lab. Code released under the MIT License.
+Code released under the MIT License.
