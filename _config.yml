@@ -11,7 +11,7 @@ email: sysnets.research.lab@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of SysNetS Lab.
 baseurl: ""
-url: "sysnets.github.io"
+url: ""
 github_username: SysNetS
 twitter_username: SysNetS
 # google_analytics: UA-12345678-1
