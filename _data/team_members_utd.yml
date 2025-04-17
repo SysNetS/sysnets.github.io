@@ -1,0 +1,13 @@
+- name: Imtiaz Karim
+  photo: Imtiaz.jpg
+  info: Assistant Professor
+  email: karim7@purdue.edu
+  link: https://www.imtiazkarim.net/
+  number_educ: 3
+  education1: B.Sc in CSE, <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>. 2017
+  education2: Ph.D. in CS, <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>. 2023
+  education3: Postdoc with Elisa Bertino, <a href="https://www.cs.purdue.edu/" target="_blank">Purdue University</a>. 2025
+  number_rec: 2
+  interest1: Network security
+  interest2: System security
+

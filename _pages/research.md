@@ -8,11 +8,29 @@ permalink: /research/
 
 # Research
 
-Inspiring from the work of <a href="https://en.wikipedia.org/wiki/Al-SysNetS" target="_blank">Al-SysNetS <i class="fa fa-external-link"></i></a>, the SysNetS lab at UMass Amherst is dedicated to undertake fundamental research topics that solve the challenging problems lying at the intersection of systems and algorithms. In particular, we develop secure and effective solutions in FinTech, Quantum Networks, and Critical Infrastructures -- such as 5G Mobile Networks, and Industrial Control Systems.
-
-Our work brings innovation in building secure and reliable networked systems. Our research identifies fundamental open questions and explores them from various angles. It contributes to better understanding of the state-of-the-art network systems by challenging their operational efficacy, and identifying unexplored aspects at their heterogeneity. It provides simple and innovative solutions from system designs to their operations through verification.
+SysNetS Lab focuses on ensuring the security and privacy of wireless communication protocols (e.g., cellular networks-4G/5G, Bluetooth, VoWiFi, vehicular, WiFi, and IoT) with respect to their design and implementation. The aim is to develop tools that systematically analyze real-world systems and widely used protocols using formal verification, program analysis, machine learning, natural language processing, and software testing techniques. Furthermore, with the advent of the next generation of networks (6G and beyond), the lab’s future goal is to ensure the resilience (reliability, adaptability, and security) of future network generations and develop protocols and systems that are robust and secure by design.
 
 Here are some themes and domains that we currently work on:
+
+
+**LLM-based Protocol Analaysis:**
+
+*CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications (Usenix Security 2024)*
+
+In recent years, there has been a growing focus on scrutinizing the security of cellular networks, often attributing security vulnerabilities to issues in the underlying protocol design descriptions. These protocol design specifications, typically extensive documents that are thousands of pages long, can harbor inaccuracies, underspecifications, implicit assumptions, and internal inconsistencies. 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/CellularLint.png){: style="width: 950px; float: left; margin: 5px 15px 0px 0px;"}
+In light of the evolving landscape, we introduce CellularLint–a semi-automatic framework for inconsistency detection within the standards of 4G and 5G, capitalizing on a suite of natural language processing techniques. Our proposed method uses a revamped few-shot learning mechanism on domain-adapted large language models. Pre-trained on a vast corpus of cellular network protocols, this method enables CellularLint to simultaneously detect inconsistencies at various levels of semantics and practical use cases. In doing so, CellularLint significantly advances the automated analysis of protocol specifications in a scalable fashion. In our investigation, we focused on the Non-Access-Stratum (NAS) and the security specifications of 4G and 5G networks, ultimately uncovering 157 inconsistencies with 82.67% accuracy. After verification of these inconsistencies on 3 open-source implementations and 17 commercial devices, we confirm that they indeed have a substantial impact on design decisions, potentially leading to concerns related to privacy, integrity, availability, and interoperability.
+
+
+**Secure Protocol Design and Defense:**
+
+
+**Protocol noncompliance checking**
+
+
+**Systematic implementation analysis**
+
+**Formal analysis of protocol standards**
 
 **System Security Policies:**
 Studying security policies of large-scale systems is crucial for identifying vulnerabilities and mitigating risks like data breaches and unauthorized access.
@@ -30,7 +48,7 @@ In the rapidly evolving landscape of quantum computing, the field of quantum sec
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/CELL_SITES.jpeg){: style="width: 70%; float: center; margin: 10px"}
 
 
-### ... and more.
+<!-- ### ... and more. -->
 
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 

@@ -1,0 +1,56 @@
+- name: Mirza Masfiqur Rahman
+  photo: Mirza.jpg
+  info: PhD Student
+  email: rahman75@purdue.edu
+  link: https://www.mirzamr.net/
+  number_educ: 1
+  education1: B.Sc in CSE, <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>. 2018
+  number_rec: 2
+  interest1: Deep Learning
+  interest2: Network Security
+
+
+- name: Kazi Samin Mubasshir
+  photo: Kazi.jpg
+  info: PhD Student
+  email: kmubassh@purdue.edu
+  link: https://www.ksmubasshir.com/
+  number_educ: 1
+  education1: B.Sc in CSE, <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>. 2021
+  number_rec: 2
+  interest1: Machine Learning
+  interest2: 5G
+
+- name: Zilin Shen
+  photo: Zilin.jpg
+  info: PhD Student
+  email: shen624@purdue.edu
+  link: https://zilinlin.github.io/
+  number_educ: 1
+  education1: BS in Software Engineering, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">, Tsinghua University, Pakistan</a>. 2022
+  number_rec: 1
+  interest1: Network Security
+
+- name: Mir Imtiaz Mostafiz
+  photo: Mir.jpg
+  info: PhD Student
+  email: mmostafi@purdue.edu
+  link: https://www.linkedin.com/in/mir-imtiaz-mostafiz-361b13191/
+  number_educ: 1
+  education1: B.Sc in CSE, <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>. 2017
+  number_rec: 3
+  interest1: Adversarial ML
+  interest2: Graph Neural Networks
+  interest3: Adversarial Robustness
+
+- name: Yiwei Zhang
+  photo: Yiwei.jpg
+  info: PhD Student
+  email: yiweizhang@purdue.edu
+  link: https://kydahe.github.io/
+  number_educ: 2
+  education1: BS in Information Security, <a href="https://www.xidian.edu.cn/" target="_blank">Xidian University</a>. 2019
+  education2: MS in CS, <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University </a>. 2022
+  number_rec: 2
+  interest1: LLM for Vulnerability Detection
+  interest2: Optimized Post-Quantum Crypto 

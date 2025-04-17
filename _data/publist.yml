@@ -1,130 +1,91 @@
-- title: "PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems"
+- title: "How Feasible is Augmenting Fake Nodes with Learnable Features as a counter-strategy against Link Stealing Attacks?"
   year: 2025
-  description: "PLCpot is a scalable, protocol-agnostic PLC honeypot framework that emulates realistic industrial control system communication through dynamic traffic analysis and replay, enabling enhanced threat intelligence collection against sophisticated cyberattacks."
-  authors: "Syed Ali Qasim, <b>Muhammad Taqi Raza</b>, and Irfan Ahmed"
+  description: "Graph Neural Networks (GNNs) are widely used and deployed for graph-based prediction tasks. However, as good as GNNs are for learning graph data, they also come with the risk of privacy leakage. For instance, an attacker can run carefully crafted queries on the GNNs and, from the responses, can infer the existence of an edge between a pair of nodes. This attack, dubbed as a link-stealing attack, can jeopardize the user's privacy by leaking potentially sensitive information. To protect against this attack, we propose an approach called (N)ode (A)ugmentation for (R)estricting (G)raphs from (I)nsinuating their (S)tructure (NARGIS) and study its feasibility. NARGIS is focused on reshaping the graph embedding space so that the posterior from the GNN model will still provide utility for the prediction task but will introduce ambiguity for the link-stealing attackers. To this end, NARGIS applies spectral clustering on the given graph to facilitate it being augmented with new nodes -- that have learned features instead of fixed ones. It utilizes tri-level optimization for learning parameters for the GNN model, surrogate attacker model, and our defense model (i.e. learnable node features). We extensively evaluate NARGIS on three benchmark citation datasets over eight knowledge availability settings for the attackers. We also evaluate the model fidelity and defense performance on influence-based link inference attacks. Through our studies, we have figured out the best feature of NARGIS -- its superior fidelity-privacy performance trade-off in a significant number of cases. We also have discovered in which cases the model needs to be improved, and proposed ways to integrate different schemes to make the model more robust against link stealing attacks."
+  authors: "<b>Mir Imtiaz Mostafiz</b>,  <b>Imtiaz Karim</b> and Elisa Bertino"
   link:
-    url: https://iccps.acm.org/2025/accepted-papers/index.html
-    display: 16th ACM Conference on Cyber-Physical Systems (ICCPS)
-    pdf: 2025-iccps.pdf
+    url: https://arxiv.org/pdf/2503.09726
+    display: ACM Conference on Data and Application Security and Privacy (CODASPY), 2025.
+    pdf: codaspy_2025_nargis.pdf
   highlight: 0
 
-- title: "In Wallet We Trust: Bypassing the Digital Wallets Payment Security for Free Shopping"
+- title: "AKMA+: Privacy-Enhanced and Standard-Compatible AKMA for 5G Communications"
+  year: 2025
+  description: "The Authentication and Key Management for Applications (AKMA) protocol is a fundamental building block for security and privacy of 5G cellular networks. Therefore, it is critical that the protocol is free of vulnerabilities that can be exploited by attackers. Unfortunately, based on a detailed analysis of AKMA, we show that AKMA has several vulnerabilities that may lead to security and privacy breaches. We define AKMA+, an enhanced protocol for 5G communication that protects against security and privacy breaches while maintaining compatibility with existing standards. AKMA+ includes countermeasures for protecting communication between the user equipment (UE) and application functions (AFs) from attackers, including those within the home public land mobile network. These countermeasures ensure mutual authentication between the UE and the AKMA anchor function without altering the protocol flow. We also address vulnerabilities related to subscriber and AKMA key identifiers that could be exploited in linkability attacks. By obfuscating this data, AKMA+ prevents attackers from associating a target UE with its past application access. We employ formal verification to demonstrate that AKMA+ achieves key security and privacy objectives. We conduct extensive experiments demonstrating that AKMA+ incurs acceptable computational overhead, bandwidth costs, and UE battery consumption."
+  authors: "Yang Yang, Guomin Yang, Yingjiu Li, Minming Huang, <b>Zilin Shen</b>, <b>Imtiaz Karim</b>, Ralf Sasse, David Basin, Elisa Bertino, Jian Weng, Hwee Hwa Pang, and Robert H. Deng"
+  link:
+    url: https://arxiv.org/pdf/2503.09726
+    display: USENIX Security Symposium, 2025.
+    pdf: usenixsec_2025_akma.pdf
+  highlight: 0
+
+
+- title: "Gotta Detect ’Em All: Fake Base Station and Multi-Step Attack Detection in Cellular Networks"
   year: 2024
-  image: payment_arch.png
-  description: "This paper investigates the security of digital wallet transactions, highlighting vulnerabilities in authentication, authorization, and access control. It exposes weaknesses in decentralized authority delegation, allowing attackers to add stolen bank cards, bypass payment authorization, and violate access control policies. The findings underscore the severity of these vulnerabilities, prompting proposed remedies to enhance security measures in digital wallet systems."
-  authors: "<b>Raja Hasnain Anwar</b>, Syed Rafiul Hussain, and <b>Muhammad Taqi Raza</b>"
+  image: FBSDetector.png
+  description: "Fake base stations (FBSes) pose a significant security threat by impersonating legitimate base stations (BSes). Though efforts have been made to defeat this threat, up to this day, the presence of FBSes and the multi-step attacks (MSAs) stemming from them can lead to unauthorized surveillance, interception of sensitive information, and disruption of network services. Therefore, detecting these malicious entities is crucial to ensure the security and reliability of cellular networks. Traditional detection methods often rely on additional hardware, predefined rules, signal scanning, changes to protocol specifications, or cryptographic mechanisms that have limitations and incur huge infrastructure costs in accurately identifying FBSes. In this paper, we develop FBSDetector–an effective and efficient detection solution that can reliably detect FBSes and MSAs from layer-3 network traces using machine learning (ML) at the user equipment (UE) side. To develop FBSDetector, we create FBSAD and MSAD, the first-ever high-quality and large-scale datasets incorporating instances of FBSes and 21 MSAs. These datasets capture the network traces in different real-world cellular network scenarios (including mobility and different attacker capabilities) incorporating legitimate BSes and FBSes. Our novel ML framework, specifically designed to detect FBSes in a multi-level approach for packet classification using stateful LSTM with attention and trace level classification and MSAs using graph learning, can effectively detect FBSes with an accuracy of 96% and a false positive rate of 2.96%, and recognize MSAs with an accuracy of 86% and a false positive rate of 3.28%. We deploy FBSDetector as a real-world solution to protect end-users through a mobile app and validate it in real-world environments. Compared to the existing heuristic-based solutions that fail to detect FBSes, FBSDetector can detect FBSes in the wild in real time."
+  authors: "<b>Imtiaz Karim*</b>, <b>Kazi Samin Mubasshir*</b>, and Elisa Bertino, (&#x2a; joint first authors)"
   link:
-    url: https://www.usenix.org/conference/usenixsecurity24/presentation/anwar
-    display: USENIX Security Symposium
-    pdf: usenixsecurity24-anwar.pdf
-    slides: Anwar-digital-wallet-payment.pdf
+    url: https://fbsdetector.github.io/
+    display: USENIX Security Symposium, 2025
+    pdf: fbs-detector-usenix2025.pdf
+    <!-- slides: -->
   highlight: 1
 
-- title: "Characterizing Encrypted Application Traffic through Cellular Radio Interface Protocol"
+
+- title: "CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications"
   year: 2024
-  description: "We empirically demonstrate that 5G radio communication becomes the side channel to precisely infer the user's applications in real-time.  The key idea lies in observing the 5G physical and MAC layer interactions over time that reveal the application's behavior."
-  authors: "Md Ruman Islam, <b>Raja Hasnain Anwar</b>, Spyridon Mastorakis, and <b>Muhammad Taqi Raza</b>"
+  image: CellularLint.png
+  description: "In recent years, there has been a growing focus on scrutinizing the security of cellular networks, often attributing security vulnerabilities to issues in the underlying protocol design descriptions. These protocol design specifications, typically extensive documents that are thousands of pages long, can harbor inaccuracies, underspecifications, implicit assumptions, and internal inconsistencies. In light of the evolving landscape, we introduce CellularLint–a semi-automatic framework for inconsistency detection within the standards of 4G and 5G, capitalizing on a suite of natural language processing techniques. Our proposed method uses a revamped few-shot learning mechanism on domain-adapted large language models. Pre-trained on a vast corpus of cellular network protocols, this method enables CellularLint to simultaneously detect inconsistencies at various levels of semantics and practical use cases. In doing so, CellularLint significantly advances the automated analysis of protocol specifications in a scalable fashion. In our investigation, we focused on the Non-Access-Stratum (NAS) and the security specifications of 4G and 5G networks, ultimately uncovering 157 inconsistencies with 82.67% accuracy. After verification of these inconsistencies on 3 open-source implementations and 17 commercial devices, we confirm that they indeed have a substantial impact on design decisions, potentially leading to concerns related to privacy, integrity, availability, and interoperability."
+  authors: "<b>Imtiaz Karim*</b>, <b>Mirza Masfiqur Rahman*</b>, and Elisa Bertino, (&#x2a; joint first authors)"
   link:
-    url: https://arxiv.org/pdf/2407.07361
-    display: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)
-    pdf: 2407.07361v2.pdf
-    slides: IEEE_MASSS24.pdf
-  highlight: 0
-
-- title: "A Comprehensive Study on Cyber Attacks in Communication Networks in Water Purification and Distribution Plants: Challenges, Vulnerabilities, and Future Prospects"
-  year: 2023
-  description: "Through the lens of IIoT, the survey provides a technical investigation that covers attack models, actual cases of cyber intrusions in the water sector, a range of security difficulties encountered, and preventative security solutions. We also explore upcoming perspectives, illuminating the predicted advancements and orientations in this dynamic subject."
-  authors: "Muhammad Muzamil Aslam, Ali Tufail, Ki-Hyung Kim, Rosyzie Anna Awg Haji Mohd Apong, and <b>Muhammad Taqi Raza</b>"
-  link:
-    url: https://www.mdpi.com/1424-8220/23/18/7999
-    display: Sensors
-  highlight: 0
-
-- title: "Redefining the Driver Attention Gauge in Semi-Autonomous Vehicles"
-  year: 2023
-  image: attention_gauge.png
-  description: "Driver distraction is one of the leading causes of accidents in semi-autonomous vehicles. We identify the relationship between the traffic event, the type of automotive sensing technologies, and its processing resources to capture that event to design the driver's attention gauge."
-  authors: "<b>Raja Hasnain Anwar</b>, Fatima Muhammad Anwar, Muhammad Kumail Haider, Alon Efrat, and <b>Muhammad Taqi Raza</b>"
-  link:
-    url: https://dl.acm.org/doi/10.1145/3616388.3617544
-    display:  International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)
-    pdf: 3616388.3617544.pdf
-    slides: MSWiM'23talk.pptx
+    url:  https://cellularlint.github.io/
+    display: USENIX Security Symposium, 2024
+    pdf: cellularlint-usenix-2024.pdf
+    <!-- slides: -->
   highlight: 1
 
-- title: "Detecting Privacy Threats with Machine Learning: A Design Framework for Identifying Side-Channel Risks of Illegitimate User Profiling"
+
+- title: "Security Attacks to the Name Management Protocol in Vehicular Networks"
+  year: 2024
+  description: "Trucks play a critical role in today’s transportation system, where minor disruptions can result in a major social impact. Intra Medium and Heavy Duty (MHD) communications broadly adopt SAE-J1939 recommended practices that utilize Name Management Protocol (NMP) to associate and manage source addresses with primary functions of controller applications. This paper exposes 19 vulnerabilities in the NMP, uses them to invent various logical attacks, in some cases leveraging and in all cases validating with formal methods, and discusses their impacts. These attacks can–➀ stealthily deny vehicle start-up by pre-playing recorded claims in monotonically descending order; ➁ successfully restrain critical vehicular device participation and institute a dead beef attack, causing reflash failure by performing a replay attack; ➂ cause stealthy address exhaustion, Thakaavath–exhaustion in Sanskrit, which rejects an address-capable controller application from network engagement by exhausting the usable address space via pre-playing claims in monotonically descending order; ➃ poison the controller application’s internally maintained source address-function association table after bypassing the imposter detection protection and execute a stealthy SA-NAME Table Poisoning Attack thereby disable radar and Anti Brake System (ABS), as well as obtain retarder braking torque dashboard warnings; ➄ cause Denial of Service (DoS) on claim messages by predicting the delay in an address reclaim and prohibiting the associated device from participating in the SAE-J1939 network; ➅ impersonate a working set master to alter the source addresses of controller applications to execute a Bot-Net attack; ➆ execute birthday attack, a brute-force collision attack to command an invalid or existing name, thereby causing undesired vehicle behavior. The impact of these attacks is validated by demonstrations on real trucks in operation in a practical setting and on bench setups with a real engine controller connected to a CAN bus."
+  authors: "Sharika Kumar, <b>Imtiaz Karim</b>, Elisa Bertino, and Anish Arora"
+  link:
+    url: https://www.ndss-symposium.org/ndss-paper/auto-draft-466/
+    display: Symposium on Vehicle Security and Privacy (VehicleSec), 2024.
+    pdf: vehiclesec_2024_name_management.pdf
+  highlight: 0
+
+- title: "Segment-Based Formal Verification of WiFi Fragmentation and Power Save Mode"
+  year: 2024
+  description: "The IEEE 802.11 family of standards, better known as WiFi, is a widely used protocol utilized by billions of users. Previous works on WiFi formal verification have mostly focused on the four-way handshake and other security aspects. However, recent works have uncovered severe vulnerabilities in functional aspects of WiFi, which can cause information leakage for billions of devices. No formal analysis method exists able to reason on the functional aspects of the WiFi protocol. In this paper, we take the first steps in addressing this gap and present an extensive formal analysis of the functional aspects of the WiFi protocol, more specifically, the fragmentation and the power-save-mode process. To achieve this, we design a novel segment-based formal verification process and introduce a practical threat model (i.e., MAC spoofing) in Tamarin to reason about the various capabilities of the attacker. To this end, we verify 68 properties extracted from WiFi protocol specification, find 3 vulnerabilities from the verification, verify 3 known attacks, and discover 2 new issues. These vulnerabilities and issues affect 14 commercial devices out of 17 tested cases, showing the prevalence and impact of the issues. Apart from this, we show that the proposed countermeasures indeed are sufficient to address the issues. We hope our results and analysis will help vendors adopt the countermeasures and motivate further research into the verification of the functional aspects of the WiFi protocol."
+  authors: "<b>Zilin Shen</b>, <b>Imtiaz Karim</b>, and Elisa Bertino"
+  link:
+    url: https://www.ndss-symposium.org/ndss-paper/auto-draft-466/
+    display:  ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2024.
+    pdf: asiaccs_2024_WiFi-Verification.pdf
+  highlight: 0
+
+
+- title: "BLEDiff: Scalable and Property-Agnostic Noncompliance Checking for BLE Implementations"
   year: 2023
-  image: typing_model.png
-  description: "Data-intensive systems are vulnerable to side-channel attacks in which hackers can extract sensitive information from a digital device without actively manipulating the target system. Nevertheless, there is a scarcity of IS research on how businesses can effectively detect and safeguard against side-channel attacks."
-  authors: "<b>Raja Hasnain Anwar</b>, Yi (Zoe) Zou, and <b>Muhammad Taqi Raza</b>"
+  image: BLEDiff.png
+  description: "In this work, we develop an automated, scalable, property-agnostic, and black-box protocol noncompliance checking framework called BLEDiff that can analyze and uncover noncompliant behavior in the Bluetooth Low Energy (BLE) protocol implementations. To overcome the enormous manual effort of extracting BLE protocol reference behavioral abstraction and security properties from a large and complex BLE specification, BLEDiff takes advantage of having access to multiple BLE devices and leverages the concept of differential testing to automatically identify deviant noncompliant behavior. In this regard, BLEDiff first automatically extracts the protocol FSM of a BLE implementation using the active automata learning approach. To improve the scalability of active automata learning for the large and complex BLE protocol, BLEDiff explores the idea of using a divide and conquer approach. BLEDiff essentially divides the BLE protocol into multiple sub-protocols, identifies their dependencies and extracts the FSM of each sub-protocol separately, and finally composes them to create the large protocol FSM. These FSMs are then pair-wise tested to automatically identify diverse deviations. We evaluate BLEDiff with 25 different commercial devices and demonstrate it can uncover 13 different deviant behaviors with 10 exploitable attacks. "
+  authors: "<b>Imtiaz Karim</b>, Abdullah Al Ishtiaq, Syed Rafiul Hussain, and Elisa Bertino"
   link:
-    url: https://aisel.aisnet.org/amcis2023/sig_sec/sig_sec/7/
-    display: Americas Conference on Information Systems (AMCIS)
-    pdf: AMCIS23.pdf
+    url: https://blediff.github.io/
+    display:  IEEE Symposium on Security and Privacy (IEEE S&P), 2023
+    pdf: blediff-s&p-2023.pdf
+    <!-- slides: -->
   highlight: 1
 
-- title: "Enabling Emerging Edge Applications Through a 5G Control Plane Intervention"
-  year: 2022
-  description: "In this paper, we consider the problem of enabling latency-sensitive and safety-critical edge applications on 5G networks. We identify fundamental control plane design challenges and posit enabling these applications requires re-thinking the cellular control plane. We propose a new edge-based cellular control plane, CellClone, which provides fast and fault-tolerant control plane processing."
-  authors: "Mukhtiar Ahmad, Muhammad Ali Nawazish, Muhammad Taimoor Tariq, Muhammad Basit Iqbal Awan, <b>Muhammad Taqi Raza</b>, and Zafar Ayyub Qazi"
-  link:
-    url: https://dl.acm.org/doi/pdf/10.1145/3555050.3569130
-    display: International Conference on emerging Networking EXperiments and Technologies
-  highlight: 0
-
-- title: "LTE NFV Rollback Recovery"
-  year: 2022
-  description: "Achieving high service availability is challenging because failover procedure must keep the latencysensitive control-plane procedures intact during failures. Through our empirical study, we show that existing recovery mechanisms on the cloud and standardized LTE solutions are coarse-grained, thus unable to quickly recover from failures. They incur LTE service outage, lost network connectivity, and slow recovery. To address these issues, we describe a new design for faulttolerant LTE EPC. It provides quick failure detection and timely recovery from failed operations. To reduce failure detection time, it leverages frequent retransmission of LTE control-plane signaling within EPC as an indication of failure. To recover from failure, it adopts a checkpointing based rollback recovery approach in the LTE context and addresses the shortcomings known in the classic checkpointing approach."
-  authors: "<b>Muhammad Taqi Raza</b>, Zhowei Tan, Ali Tufail, and Fatima Muhammad Anwar"
-  link:
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9794326
-    display: IEEE Transactions on Network and Service Management
-  highlight: 0
-
-- title: "Keeping eyes on the road: the role of situated IS delegation in influencing drivers' situational awareness"
+- title: "Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G LTE Cellular Devices"
   year: 2021
-  image: icis-treo.jpg
-  description: "Our key idea is to leverage the way AI algorithms pre-process various traffic events in guiding drivers’ actions. By providing scenario-specific feedback, such an approach can integrate the decision process of a driver with that of the algorithmic aid."
-  authors: "<b>Raja Hasnain Anwar</b>, Yi (Zoe) Zou, and <b>Muhammad Taqi Raza</b>"
+  image: DIKEUE.png
+  description: "The work focuses on developing an automated black-box testing approach called DIKEUE that checks 4G Long Term Evolution (LTE) control-plane protocol implementations in commercial-off-the-shelf (COTS) cellular devices (also, User Equipments or UEs) for noncompliance with the standard. Unlike prior noncompliance checking approaches which rely on property-guided testing, DIKEUE adopts a property-agnostic, differential testing approach, which leverages the existence of many different control-plane protocol implementations in COTS UEs. DIKEUE uses deviant behavior observed during differential analysis of pairwise COTS UEs as a proxy for identifying noncompliance instances. For deviant behavior identification, DIKEUE first uses black-box automata learning, specialized for 4G LTE control-plane protocols, to extract input-output finite state machine (FSM) for a given UE. It then reduces the identification of deviant behavior in two extracted FSMs as a model checking problem. We applied DIKEUE in checking noncompliance in 14 COTS UEs from 5 vendors and identified 15 new deviant behavior as well as 2 previous implementation issues. Among them, 11 are exploitable whereas 3 can cause potential interoperability issues. "
+  authors: "<b>Imtiaz Karim*</b>,  Syed Rafiul Hussain &#x2a;, Abdullah Al Ishtiaq, Omar Chowdhury, and Elisa Bertino (&#x2a; joint first authors)"
   link:
-    url: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1042&context=treos_icis2021
-    display: International Conference on Information Systems (ICIS) TREOs
-    pdf: ICISTREO23.pdf
-  highlight: 0
-
-- title: "On Key Reinstallation Attacks over 4G LTE Control-Plane: Feasibility and Negative Impact"
-  year: 2021
-  description: "In this paper, we show that several design choices in the current LTE security setup are vulnerable to key reinstallation attacks. Specifically, on the control plane, the LTE security association setup procedures, which establish security between the device and the network, are disconnected. The keys are installed through one procedure, whereas their associated parameters (such as uplink and downlink counters) are reset through another different procedure."
-  authors: "<b>Muhammad Taqi Raza</b>, Yunqi Guo, Songwu Lu, and Fatima Muhammad Anwar"
-  link:
-    url: https://dl.acm.org/doi/fullHtml/10.1145/3485832.3485833
-    display: Annual Computer Security Applications Conference
-  highlight: 0
-
-- title: "Highly Available Service Access Through Proactive Events Execution in LTE NFV"
-  year: 2021
-  description: "This paper proposes Fat-proxy which acts as a stand-alone execution engine of critical network events. Through space uncoupling, we execute several signalling messages in parallel while skipping unnecessary messages to reduce event execution time and signalling overhead while ensuring highly available service access. We build our system prototype of open source LTE core network over virtualized platform. Our results show that we can reduce event execution time and signalling overhead upto 50% and 40%, respectively."
-  authors: "<b>Muhammad Taqi Raza</b>, Fatima Muhammad Anwar, Dongho Kim, and Kyu-Han Kim"
-  link:
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9509291
-    display: IEEE Transactions on Network and Service Management
-  highlight: 0
-
-- title: "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model"
-  year: 2020
-  image: malrnn.jpg
-  description: "We propose MalRNN, a novel deep learning-based approach to automatically generate evasive malware variants without any of these restrictions. Our approach features an adversarial example generation process, which learns a language model via a generative sequence-to-sequence recurrent neural network to augment malware binaries. MalRNN effectively evades three recent deep learning-based malware detectors and outperforms current benchmark methods."
-  authors: "Mohammadreza Ebrahimi, Ning Zhang,  James Hu, <b>Muhammad Taqi Raza</b>, and Hsinchun Chen"
-  link:
-    url: https://arxiv.org/pdf/2012.07994.pdf
-    display: arXiv:2012.07994
+    url: https://dl.acm.org/doi/abs/10.1145/3460120.3485388
+    display:  ACM Conference on Computer (CCS), 2021
+    pdf: ccs_2021_dikeue.pdf
+    <!-- slides: -->
   highlight: 1
-
-- title: "{FERRET}: Fall-back to {LTE} Microservices for Low Latency Data Access"
-  year: 2020
-  description: "Our idea is to keep all types of LTE control-plane procedures handling at the core; while moving the execution of LTE data-plane services to the edge as microservices. We propose FERRET that is inspired from the success of the Circuit Switch Fall Back (CSFB) procedure, and falls-back to specific LTE microservice for the user requesting a particular LTE service."
-  authors: "<b>Muhammad Taqi Raza</b>, Fatima Muhammad Anwar, Dongho Kim, and Kyu-Han Kim"
-  link:
-    url: https://www.usenix.org/system/files/hotedge20_paper_raza.pdf
-    display: USENIX Workshop on Hot Topics in Edge Computing
-  highlight: 0

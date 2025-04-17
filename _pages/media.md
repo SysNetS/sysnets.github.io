@@ -8,7 +8,7 @@ permalink: /media.html
 
 # Media Coverage
 
-## Digital Payments Security
+## Cellular Network 
 - Global News Radio 640 Toronto Canada
 - <a href="https://www.forbes.com/sites/billhardekopf/2024/08/22/this-week-in-credit-card-news-people-using-cash-back-cards-to-help-during-tough-economy/" title="This Week In Credit Card News: Digital Wallets Can Allow Purchases with Stolen Credit Cards" target='_blank'>Forbes</a>
 - <a href="https://www.youtube.com/watch?v=da-4BQukeQM" title="Digital wallets can allow purchases with stolen credit cards" target='_blank'>National Science Foundation (NSF)</a>
@@ -44,3 +44,13 @@ permalink: /media.html
 ## Quantum Computing
 - <a href="https://www.cnbc.com/amp/2024/12/22/what-google-quantum-chip-breakthrough-means-for-bitcoins-future.html" title="Taqi Raza Says Breakthroughs in Quantum Computing Will Likely Transform Industries" target='_blank'>CNBC</a>
 - <a href="https://www.umass.edu/news/article/umass-amherst-researchers-join-26-million-quantum-computing-effort-build-internet" title="UMass Amherst Researchers Join $26 Million Quantum Computing Effort to Build Internet of the Future" target='_blank'>UMass News</a>
+
+
+# Reported Vulnerabilities, Acknowledgements, and Bug Bounties
+
+## Acknowledgements 
+
+
+
+
+## Discovered CVE/CVD/SVE's:
