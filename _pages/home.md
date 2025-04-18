@@ -52,9 +52,9 @@ SysNetS Lab focuses on ensuring the security and privacy of wireless communicati
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
 
 <figure>
-
-  <a href="https://www.utdallas.edu/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/utd_line.jpg" style="width: 400px" alt="The University of Texas at Dallas"></a>
+  <center>
+  <a href="https://www.utdallas.edu/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/utd_line.jpg" style="width: 380px" alt="The University of Texas at Dallas"></a>
   <!-- <a href="https://www.nsf.gov/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.jfif" style="width: 200px" alt="National Science Foundation"></a> -->
   <!-- <a href="https://cqn-erc.org/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cqn.png" style="width: 200px" alt="Center for Quantum Networks"></a> -->
-
+  </center>
 </figure>
