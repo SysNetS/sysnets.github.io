@@ -46,14 +46,14 @@ System and Network Security (SysNetS) lab is part of the Department of Computer 
 SysNetS Lab focuses on ensuring the security and privacy of wireless communication protocols (e.g., cellular networks-4G/5G, Bluetooth, VoWiFi, vehicular, WiFi, and IoT) with respect to their design and implementation. The aim is to develop tools that systematically analyze real-world systems and widely used protocols using formal verification, program analysis, machine learning, natural language processing, and software testing techniques. Furthermore, with the advent of the next generation of networks (6G and beyond), the lab's future goal is to ensure the resilience (reliability, adaptability, and security) of future network generations and develop protocols and systems that are robust and secure by design (see [Research](research)).
 
 
-**We are  looking for passionate Ph.D. Master's and Bachelor's students at UMass to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for passionate Ph.D. Master's and Bachelor's students at UTD to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
 
 <figure class="fourth">
 
-  <a href="https://www.umass.edu/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/utd_line.jpg" style="width: 650px" alt="The University of Texas at Dallas"></a>
+  <a href="https://www.utdallas.edu/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/utd_line.jpg" style="width: 650px" alt="The University of Texas at Dallas"></a>
   <!-- <a href="https://www.nsf.gov/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.jfif" style="width: 200px" alt="National Science Foundation"></a> -->
   <!-- <a href="https://cqn-erc.org/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cqn.png" style="width: 200px" alt="Center for Quantum Networks"></a> -->
 
