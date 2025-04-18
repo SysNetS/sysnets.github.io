@@ -66,6 +66,18 @@
   highlight: 0
 
 
+- title: "SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis"
+  year: 2023
+  description: "5G is the 5th generation cellular network protocol. It is the state-of-the-art global wireless standard that enables an advanced kind of network designed to connect virtually everyone and everything with increased speed and reduced latency. Therefore, its development, analysis, and security are critical. However, all approaches to the 5G protocol development and security analysis, e.g., property extraction, protocol summarization, and semantic analysis of the protocol specifications and implementations are completely manual. To reduce such manual effort, in this paper, we curate SPEC5G the first-ever public 5G dataset for NLP research. The dataset contains 3,547,586 sentences with 134M words, from 13094 cellular network specifications and 13 online websites. By leveraging large-scale pre-trained language models that have achieved state-of-the-art results on NLP tasks, we use this dataset for security-related text classification and summarization. Security-related text classification can be used to extract relevant security-related properties for protocol testing. On the other hand, summarization can help developers and practitioners understand the high level of the protocol, which is itself a daunting task. Our results show the value of our 5G-centric dataset in 5G protocol analysis automation. We believe that SPEC5G will enable a new research direction into automatic analyses for the 5G cellular network protocol and numerous related downstream tasks. Our data and code are publicly available."
+  authors: "<b>Imtiaz Karim</b>, <b>Kazi Samin Mubasshir</b>, <b>Mirza Masfiqur Rahman</b>, and Elisa Bertino "
+  link:
+    url: https://arxiv.org/abs/2301.09201
+    display:  International Joint Conference on Natural Language Processing and the Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), 2023.
+    pdf: spec5g.pdf
+  highlight: 0
+
+
+
 - title: "BLEDiff: Scalable and Property-Agnostic Noncompliance Checking for BLE Implementations"
   year: 2023
   image: BLEDiff.png
@@ -78,6 +90,27 @@
     <!-- slides: -->
   highlight: 1
 
+- title: "VWAnalyzer: A Systematic Security Analysis Framework for the Voice over WiFi Protocol"
+  year: 2022
+  description: "In this paper, we evaluate the security of the Voice over WiFi (VoWiFi) protocol by proposing the VWAnalyzer framework. We model five critical procedures of the VoWiFi protocol and deploy a model-based testing approach to uncover potential design flaws. Since the standards of the VoWiFi protocol contain underspecifications that can lead to vulnerable scenarios, VWAnalyzer explicitly deals with them. Unlike prior approaches that do not consider the underspecifications, VWAnalyzer adopts a systematic approach that constructs diverse and viable scenarios based on the underspecifications and substantially reduces the number of possible scenarios. Then the scenarios are verified against security properties. VWAnalyzer automatically generates 960 viable scenarios to be analyzed among 10,368 scenarios (91% decrease) from the initial models. We demonstrate the effectiveness of VWAnalyzer by verifying 38 properties and uncovering 3 new attacks. Notable among our findings is the denial-of-cellular-connectivity attack, due to insecure handover that disconnects the user through both VoWiFi and VoLTE. To ensure that the exposed attacks pose real threats and are indeed realizable in practice, we have validated the attacks in a real-world testbed. We also report several implementations issues that were uncovered during the testbed evaluation."
+  authors: "Hyunwoo Lee, <b>Imtiaz Karim</b>, Ninghui Li, and Elisa Bertino"
+  link:
+    url: https://dl.acm.org/doi/10.1145/3488932.3517425
+    display:  ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2022. 
+    pdf: asiaccs_2022_vwanalyzer.pdf
+  highlight: 0
+
+
+- title: "AI-powered Network Security: Approaches and Research Directions"
+  year: 2021
+  description: "In this paper, we evaluate the security of the Voice over WiFi (VoWiFi) protocol by proposing the VWAnalyzer framework. We model five critical procedures of the VoWiFi protocol and deploy a model-based testing approach to uncover potential design flaws. Since the standards of the VoWiFi protocol contain underspecifications that can lead to vulnerable scenarios, VWAnalyzer explicitly deals with them. Unlike prior approaches that do not consider the underspecifications, VWAnalyzer adopts a systematic approach that constructs diverse and viable scenarios based on the underspecifications and substantially reduces the number of possible scenarios. Then the scenarios are verified against security properties. VWAnalyzer automatically generates 960 viable scenarios to be analyzed among 10,368 scenarios (91% decrease) from the initial models. We demonstrate the effectiveness of VWAnalyzer by verifying 38 properties and uncovering 3 new attacks. Notable among our findings is the denial-of-cellular-connectivity attack, due to insecure handover that disconnects the user through both VoWiFi and VoLTE. To ensure that the exposed attacks pose real threats and are indeed realizable in practice, we have validated the attacks in a real-world testbed. We also report several implementations issues that were uncovered during the testbed evaluation."
+  authors: "Elisa Bertino and <b>Imtiaz Karim</b>"
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3491371.3491384
+    display:   International Conference on Networking, Systems, and Security (NSysS), 2021 (Research directional paper).
+    pdf: nsyss_2021_ai_network.pdf
+  highlight: 0
+
 - title: "Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G LTE Cellular Devices"
   year: 2021
   image: DIKEUE.png
@@ -89,3 +122,60 @@
     pdf: ccs_2021_dikeue.pdf
     <!-- slides: -->
   highlight: 1
+
+
+- title: "ProChecker: An Automated Security and Privacy Analysis Framework for 4G LTE Protocol Implementations"
+  year: 2021
+  description: "In this paper, we evaluate the security of the Voice over WiFi (VoWiFi) protocol by proposing the VWAnalyzer framework. We model five critical procedures of the VoWiFi protocol and deploy a model-based testing approach to uncover potential design flaws. Since the standards of the VoWiFi protocol contain underspecifications that can lead to vulnerable scenarios, VWAnalyzer explicitly deals with them. Unlike prior approaches that do not consider the underspecifications, VWAnalyzer adopts a systematic approach that constructs diverse and viable scenarios based on the underspecifications and substantially reduces the number of possible scenarios. Then the scenarios are verified against security properties. VWAnalyzer automatically generates 960 viable scenarios to be analyzed among 10,368 scenarios (91% decrease) from the initial models. We demonstrate the effectiveness of VWAnalyzer by verifying 38 properties and uncovering 3 new attacks. Notable among our findings is the denial-of-cellular-connectivity attack, due to insecure handover that disconnects the user through both VoWiFi and VoLTE. To ensure that the exposed attacks pose real threats and are indeed realizable in practice, we have validated the attacks in a real-world testbed. We also report several implementations issues that were uncovered during the testbed evaluation."
+  authors: "Elisa Bertino and <b>Imtiaz Karim</b>"
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3491371.3491384
+    display:   International Conference on Networking, Systems, and Security (NSysS), 2021 (Research directional paper).
+    pdf: nsyss_2021_ai_network.pdf
+  highlight: 0
+  nomination: 1
+
+- title: "ATFuzzer: Dynamic Analysis Framework of AT Interface for Android Smartphones "
+  year: 2020
+  description: "Application processors of modern smartphones use the AT interface for issuing high-level commands (or AT-commands) to the baseband processor for performing cellular network operations (e.g., placing a phone call). Vulnerabilities in this interface can be leveraged by malicious USB or Bluetooth peripherals to launch pernicious attacks. In this article, we propose ATFuzzer, which uses a grammar-guided evolutionary fuzzing approach that mutates production rules of the AT-command grammar instead of concrete AT commands to evaluate the correctness and robustness of the AT-command execution process. To automate each step of the analysis pipeline, ATFuzzer first takes as input the 3GPP and other vendor-specific standard documents and, following several heuristics, automatically extracts the seed AT command grammars for the fuzzer. ATFuzzer uses the seed to generate both valid and invalid grammars, following our cross-over and mutation strategies to evaluate both the integrity and execution of AT-commands. Empirical evaluation of ATFuzzer on 10 Android smartphones from 6 vendors revealed 4 invalid AT command grammars over Bluetooth and 14 over USB with implications ranging from DoS, downgrade of cellular protocol version, to severe privacy leaks. The vulnerabilities along with the invalid AT-command grammars were responsibly disclosed to affected vendors and assigned CVEs."
+  authors: "<b>Imtiaz Karim</b>, Fabrizio Cicala, Syed Rafiul Hussain, Omar Chowdhury, and Elisa Bertino </b>"
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3491371.3491384
+    display:   ACM Digital Threats Research and Practice (DTRAP), 2020.
+    pdf: dtrap_2020_atfuzzer_journal.pdf
+  highlight: 0
+  nomination: 0
+
+- title: "Opening Pandora’s Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones  "
+  year: 2019
+  description: "This paper focuses on checking the correctness and robustness of the AT command interface exposed by the cellular baseband processor through Bluetooth and USB. A device's application processor uses this interface for issuing high-level commands (or, AT commands) to the baseband processor for performing cellular network operations (e.g., placing a phone call). Vulnerabilities in this interface can be leveraged by malicious Bluetooth peripherals to launch pernicious attacks including DoS and privacy attacks. To identify such vulnerabilities, we propose ATFuzzer that uses a grammar-guided evolutionary fuzzing approach which mutates production rules of the AT command grammar instead of concrete AT commands. Empirical evaluation with ATFuzzer on 10 Android smartphones from 6 vendors revealed 4 invalid AT command grammars over Bluetooth and 13 over USB with implications ranging from DoS, downgrade of cellular protocol version (e.g., from 4G to 3G/2G) to severe privacy leaks. The vulnerabilities along with the invalid AT command grammars were responsibly disclosed to affected vendors and two of the reported vulnerabilities have been already assigned CVEs (CVE-2019-16400 and CVE-2019-16401)."
+  authors: "<b>Imtiaz Karim</b>, Fabrizio Cicala, Syed Rafiul Hussain, Omar Chowdhury, and Elisa Bertino </b>"
+  link:
+    url: https://dl.acm.org/doi/10.1145/3359789.3359833
+    display:   Annual Computer Security Applications Conference (ACSAC), 2019.
+    pdf: acsac_2019_atfuzzer.pdf
+  highlight: 0
+  award: 1
+
+- title: "5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol "
+  year: 2019
+  description: "The paper proposes 5GReasoner, a framework for property-guided formal verification of control-plane protocols spanning across multiple layers of the 5G protocol stack. The underlying analysis carried out by 5GReasoner can be viewed as an instance of the model checking problem with respect to an adversarial environment. Due to an effective use of behavior-specific abstraction in our manually extracted 5G protocol, 5GReasoner's analysis generalizes prior analyses of cellular protocols by reasoning about properties not only regarding packet payload but also multi-layer protocol interactions. We instantiated 5GReasoner with two model checkers and a cryptographic protocol verifier, lazily combining them through the use of abstraction-refinement principle. Our analysis of the extracted 5G protocol model covering 6 key control-layer protocols spanning across two layers of the 5G protocol stack with 5GReasoner has identified 11 design weaknesses resulting in attacks having both security and privacy implications. Our analysis also discovered 5 previous design weaknesses that 5G inherits from 4G, and can be exploited to violate its security and privacy guarantees."
+  authors: "Syed Rafiul Hussain, Mitziu Echeverria, <b>Imtiaz Karim</b>, Omar Chowdhury, and Elisa Bertino"
+  link:
+    url: https://dl.acm.org/doi/10.1145/3319535.3354263
+    display:   ACM Conference on Computer and Communications Security (CCS), 2019. 
+    pdf: ccs_2019_5greasoner.pdf
+  highlight: 0
+  nomination: 0
+
+
+- title: "Maximizing Heterogeneous Coverage in Over and Under Provisioned Visual Sensor Networks "
+  year: 2018
+  description: "We address “heterogeneous coverage” in visual sensor networks where coverage requirements of some randomly deployed targets vary from target to target. The main objective is to maximize the coverage of all the targets to achieve their respective coverage requirement by activating minimal sensors. The problem can be viewed as an interesting variation of the classical Max-Min problem (i.e., Maximum Coverage with Minimum Sensors (MCMS)). Therefore, we study the existing Integer Linear Programming (ILP) formulation for single and k-coverage MCMS problem in the state-of-the-art and modify them to solve the heterogeneous coverage problem. We also propose a novel Integer Quadratic Programming (IQP) formulation that minimizes the Euclidean distance between the achieved and the required coverage vectors. Both ILP and IQP give exact solution when the problem is solvable but as they are non-scalable due to their computational complexity, we devise a Sensor Oriented Greedy Algorithm (SOGA) that approximates the formulations. For under-provisioned networks where there exist insufficient number of sensors to meet the coverage requirements, we propose prioritized IQP and reduced-variance IQP formulations to capture prioritized and group wise balanced coverage respectively. Moreover, we develop greedy heuristics to tackle under provisioned networks. Extensive evaluations based on simulation illustrate the efficiency and efficacy of the proposed formulations and heuristics under various network settings. Additionally, we compare our methodologies and algorithm with two state-of-the-art algorithms available for target coverage and show that our methodologies and algorithm substantially outperform both the algorithms."
+  authors: "Abdullah Al Zishan, <b>Imtiaz Karim</b>, Sudipta Saha Shubha, Ashikur Rahman "
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1084804518302972
+    display:  The Journal of Network and Computer Applications, Elsevier (JNCA), Volume 124, 15 December 2018, Pages 44-62. 
+    pdf: jnca_2018_coverage.pdf
+  highlight: 0
+  nomination: 0

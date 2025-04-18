@@ -1,0 +1,9 @@
+- title: " Machine Learning Techniques for Cybersecurity"
+  year: 2023
+  description: "Provides a detailed taxonomy of security tasks and related ML-based defenses. Uses case studies to illuminate instances in which ML-based defenses would have prevented or mitigated these attacks. Discusses the main challenges in using ML for security tasks, initial solutions, and open research directions"
+  authors: "Elisa Bertino , Sonam Bhardwaj , Fabrizio Cicala , Sishuai Gong , <b>Imtiaz Karim</b> , Charalampos Katsis , Hyunwoo Lee , Adrian Shuai Li , Ashraf Y. Mahgoub"
+  link:
+    url: https://link.springer.com/book/10.1007/978-3-031-28259-1
+    display:   Synthesis Lectures on Information Security, Privacy, and Trust (SLISPT), Springer Nature, May 2023.
+  highlight: 0
+  nomination: 0

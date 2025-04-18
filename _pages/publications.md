@@ -58,6 +58,7 @@ permalink: /publications/
 <!-- ## Patents  -->
 
 ## Full List of publications
+### Papers
 
 {% for publi in site.data.publist %}
 
@@ -66,6 +67,58 @@ permalink: /publications/
   {% if publi.link.pdf %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.pdf }}" target="_blank">PDF</a>]</b>{% endif %}
   {% if publi.link.slides %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.slides }}" target="_blank">Slides</a>]</b>{% endif %}
 
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if publi.award == 1 %}<h4 style="color:Tomato;"><strong>Distinguished Paper Award</strong></h4>{% endif %}
+  {% if publi.nomination == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award nomination </strong></h4>{% endif %}
 {% endfor %}
+
+
+
+### Book
+
+{% for publi in site.data.publist_book %}
+
+  <b>{{ publi.year }}:</b> {{ publi.title }}
+  <!-- Check if file links exist -->
+  {% if publi.link.pdf %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.pdf }}" target="_blank">PDF</a>]</b>{% endif %}
+  {% if publi.link.slides %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.slides }}" target="_blank">Slides</a>]</b>{% endif %}
+
+
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if publi.award == 1 %}<h4 style="color:Tomato;"><strong>Distinguished Paper Award</strong></h4>{% endif %}
+  {% if publi.nomination == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award nomination </strong></h4>{% endif %}
+{% endfor %}
+
+
+### Thesis
+
+{% for publi in site.data.publist_thesis %}
+
+  <b>{{ publi.year }}:</b> {{ publi.title }}
+  <!-- Check if file links exist -->
+  {% if publi.link.pdf %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.pdf }}" target="_blank">PDF</a>]</b>{% endif %}
+  {% if publi.link.slides %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.slides }}" target="_blank">Slides</a>]</b>{% endif %}
+
+
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if publi.award == 1 %}<h4 style="color:Tomato;"><strong>Distinguished Paper Award</strong></h4>{% endif %}
+  {% if publi.nomination == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award nomination </strong></h4>{% endif %}
+{% endfor %}
+
+
+### Industrial Conference
+
+{% for publi in site.data.publist_industry %}
+
+  <b>{{ publi.year }}:</b> {{ publi.title }}
+  <!-- Check if file links exist -->
+  {% if publi.link.pdf %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.pdf }}" target="_blank">PDF</a>]</b>{% endif %}
+  {% if publi.link.slides %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.slides }}" target="_blank">Slides</a>]</b>{% endif %}
+
+
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if publi.award == 1 %}<h4 style="color:Tomato;"><strong>Distinguished Paper Award</strong></h4>{% endif %}
+  {% if publi.nomination == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award nomination </strong></h4>{% endif %}
+{% endfor %}
+

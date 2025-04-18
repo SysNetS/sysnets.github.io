@@ -1,0 +1,9 @@
+- title: "A Systematic Framework for Analyzing The Security And Privacy of Wireless Communication "
+  year: 2023
+  description: " Wireless communication technologies, such as cellular ones, Bluetooth, and WiFi, are fundamental for today’s and tomorrow’s communication infrastructure. Networks based on those technologies are or will be increasingly deployed in many critical domains, such as critical infrastructures, smart cities, healthcare, and industrial environments. Protecting wireless networks against attacks and privacy breaches is thus critical. A fundamental step for the security and privacy of these networks is ensuring that their protocols are implemented as mandated by the standards. These protocols are however quite complex and unfortunately, the lack of secure-by-design approaches for these complex protocols often induces vulnerabilities in implementations with severe security and privacy repercussions. For these protocols, the standards are thousands of pages long, written in natural language, describe the high-level interaction of the protocol entities, and most often depend on human interpretation—which is open to misunderstanding and ambiguity. This inherently entails the question of whether these wireless protocols and their communication equipment implement the corresponding standards correctly or whether the implementations introduce vulnerabilities that can have severe consequences."
+  authors: "<b>Imtiaz Karim</b>"
+  link:
+    url: https://hammer.purdue.edu/articles/thesis/A_SYSTEMATIC_FRAMEWORK_FOR_ANALYZING_THE_SECURITY_AND_PRIVACY_OF_WIRELESS_COMMUNICATION_PROTOCOL_IMPLEMENTATIONS/22318051
+    display:   Ph.D. Thesis, Purdue University, 2023
+  highlight: 0
+  nomination: 0
