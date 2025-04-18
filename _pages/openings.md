@@ -8,23 +8,14 @@ permalink: /vacancies
 
 # Open positions
 
-<!-- **We are currently open for PhD and postdoc applications. The positions are mostly related to the Quantum Networks projects.** -->
-
-We are  looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of networked systems, often at the interface of cellular networks and payment systems. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
-<!-- ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:taqi@umass.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email. -->
+We are looking for Ph.D., Masters and Bachelors students joining our team.
 
 
-### Masters Thesis for University of Massachusetts Amherst students
-If you are a Masters student at University of Massachusetts Amherst looking for a Masters thesis or project, contact me (or any group member) per email or stop by my office.
+## If you are at UTD
+If you are at UTD, please [email](mailto:karim7@purdue.edu), Imtiaz or directly talk to him!
 
-### BSc / Masters students from elsewhere
-If you are interested in pursuing an MSECE at University of Massachusetts Amherst, see [umass.edu](https://www.umass.edu/engineering/academics/ms-electrical-computer-engineering). Sometimes, we take Masters students or summer interns if we get exceptional applicants (this usually means very good grades and personal recommendations).
+## If you are not at UTD
+
+Please apply to [UTD CS](https://www.utdallas.edu/fact-sheets/ecs/phd-computer-science/) and indicate you would like to work with Imtiaz.
 
 
-<!-- <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure> -->
