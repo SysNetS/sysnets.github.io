@@ -1,7 +1,7 @@
 ---
 title: "SysNetS Lab - Home"
 layout: homelay
-excerpt: "SysNetS Lab @ UMass Amherst."
+excerpt: "SysNetS Lab @ UTD"
 sitemap: true
 permalink: /
 ---

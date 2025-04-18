@@ -31,7 +31,7 @@ To reduce such manual effort, in this paper, we curate SPEC5G the first-ever pub
 ### TIMESAFE: Timing Interruption Monitoring and Security Assessment for Fronthaul Environments (arXiv 2024)
 
 5G and beyond cellular systems embrace the disaggregation of Radio Access Network (RAN) components, exemplified by the evolution of the fronthual (FH) connection between cellular baseband and radio unit equipment. Crucially, synchronization over the FH is pivotal for reliable 5G services. In recent years, there has been a push to move these links to an Ethernet-based packet network topology, leveraging existing standards and ongoing research for Time-Sensitive Networking (TSN). However, TSN standards, such as Precision Time Protocol (PTP), focus on performance with little to no concern for security. This increases the exposure of the open FH to security risks. Attacks targeting synchronization mechanisms pose significant threats, potentially disrupting 5G networks and impairing connectivity.
-
+![]({{ site.url }}{{ site.baseurl }}/images/respic/timesafe.png){: style="width: 450px; float: left; margin: 5px 15px 0px 0px;"}
 In this paper, we demonstrate the impact of successful spoofing and replay attacks against PTP synchronization. We show how a spoofing attack is able to cause a production-ready O-RAN and 5G-compliant private cellular base station to catastrophically fail within 2 seconds of the attack, necessitating manual intervention to restore full network operations. To counter this, we design a Machine Learning (ML)-based monitoring solution capable of detecting various malicious attacks with over 97.5% accuracy.
 
 **Protocol noncompliance checking**
