@@ -22,6 +22,9 @@ System and Network Security (SysNetS) lab is part of the Department of Computer 
             <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5g.gif" alt="5G" /></a>
         </div>
         <div class="item">
+            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logo.png" alt="Fake Base Station Detection" /></a>
+        </div>
+        <div class="item">
             <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/timesafe.png" alt="TIMESAFE" /></a>
         </div>
         <div class="item">
@@ -30,6 +33,7 @@ System and Network Security (SysNetS) lab is part of the Department of Computer 
         <div class="item">
             <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FBSDetector.png" alt="Fake Base Station Detection" /></a>
         </div>
+
     </div>
   
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
