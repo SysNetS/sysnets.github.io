@@ -11,3 +11,28 @@
   interest1: Network security
   interest2: System security
 
+
+
+- name: Mashroor Hasan Bhuiyan
+  photo: Mashroor.jpg
+  info: PhD Student (Starting Fall 2025)
+  email: MashroorHasan.Bhuiyan@utdallas.edu
+  link:  https://mahabhu.github.io
+  number_educ: 1
+  education1: B.Sc in CSE, <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>. 2025
+  number_rec: 1
+  interest1: Network Security
+
+
+
+- name:  Fatema Tuj Johora
+  photo: Fatema.jpg
+  info: PhD Student (Starting Fall 2025)
+  email: Fatema.TujJohora@utdallas.edu
+  link:  https://johoraava.github.io
+  number_educ: 1
+  education1: B.Sc in CSE, <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>. 2025
+  number_rec: 2
+  interest1: Network Security
+  interest2: Automated Reasoning  
+
