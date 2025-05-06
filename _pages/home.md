@@ -6,7 +6,7 @@ sitemap: true
 permalink: /
 ---
 
-System and Network Security (SysNetS) lab is part of the Department of Computer Science at the<a href="https://www.utdallas.edu/" target="_blank"> University of Texas at Dallas <i class="fa fa-external-link"></i></a> lead by PI: <a href="https://www.imtiazkarim.net/" target="_blank"> Imtiaz Karim  <i class="fa fa-external-link"></i></a>.
+<ins>**Sys**</ins>tem and <ins>**Net**</ins>work <ins>**S**</ins>ecurity (**SysNetS**) lab is part of the Department of Computer Science at the<a href="https://www.utdallas.edu/" target="_blank"> University of Texas at Dallas <i class="fa fa-external-link"></i></a> lead by PI: <a href="https://www.imtiazkarim.net/" target="_blank"> Imtiaz Karim  <i class="fa fa-external-link"></i></a>.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
