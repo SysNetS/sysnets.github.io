@@ -22,9 +22,6 @@ permalink: /
             <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5g.gif" alt="5G" /></a>
         </div>
         <div class="item">
-            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logo.png" alt="Fake Base Station Detection" /></a>
-        </div>
-        <div class="item">
             <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/timesafe.png" alt="TIMESAFE" /></a>
         </div>
         <div class="item">
