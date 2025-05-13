@@ -22,15 +22,11 @@ permalink: /
             <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5g.gif" alt="5G" /></a>
         </div>
         <div class="item">
-            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/timesafe.png" alt="TIMESAFE" /></a>
+            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5g_2.gif" alt="5g_2" /></a>
         </div>
         <div class="item">
-            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spec5g.png" alt="SPEC5G" /></a>
-        </div>
-        <div class="item">
-            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FBSDetector.png" alt="Fake Base Station Detection" /></a>
-        </div>
-
+            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/security.gif" alt="security" /></a>
+        </div>                   
     </div>
   
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
