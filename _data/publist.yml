@@ -15,7 +15,7 @@
   description: "Federated learning (FL) has gained significant traction for privacy-preserving model training in next-generation networks, yet existing secure aggregation protocols often struggle with the massive connectivity and dynamic nature of 5G environments. We leverage the 5G architecture and propose simple yet efficient pre-computation techniques to design a highly efficient single-round secure aggregation protocol that meets the stringent performance requirement of mobile devices. This is achieved by leveraging the 5G architecture to employ base stations to assist the server in computing the model. Our protocol’s high resiliency is achieved through a novel adoption of key-homomorphic pseudorandom functions and t-out-of-k secret sharing mechanism. Experimental results show that our approach maintains strong security guarantees, achieves notable gains in computation and communication efficiency, and is well-suited for large-scale, on-device intelligence in 5G networks."
   authors: "<b>Yiwei Zhang</b>, Rouzbeh Behnia, <b>Imtiaz Karim</b>, Attila A Yavuz  and Elisa Bertino"
   link:
-    url: 
+    url: https://arxiv.org/pdf/2505.07148
     display: ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2025.
     pdf: 
   highlight: 0
