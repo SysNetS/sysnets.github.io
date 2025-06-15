@@ -40,7 +40,7 @@ permalink: /
 </div>
 
 
-SysNetS Lab focuses on ensuring the security and privacy of wireless communication protocols (e.g., cellular networks-4G/5G, Bluetooth, VoWiFi, vehicular, WiFi, and IoT) with respect to their design and implementation. The aim is to develop tools that systematically analyze real-world systems and widely used protocols using formal verification, program analysis, machine learning, natural language processing, and software testing techniques. Furthermore, with the advent of the next generation of networks (6G and beyond), the lab's future goal is to ensure the resilience (reliability, adaptability, and security) of future network generations and develop protocols and systems that are robust and secure by design (see [Research](research)).
+SysNetS lab focuses on ensuring the security and privacy of wireless communication protocols (e.g., cellular networks-4G/5G, Bluetooth, VoWiFi, vehicular, WiFi, and IoT) with respect to their design and implementation. The aim is to develop tools that systematically analyze real-world systems and widely used protocols using formal verification, program analysis, machine learning, natural language processing, and software testing techniques. Furthermore, with the advent of the next generation of networks (6G and beyond), the lab's future goal is to ensure the resilience (reliability, adaptability, and security) of future network generations and develop protocols and systems that are robust and secure by design (see [Research](research)).
 
 
 **We are  looking for passionate Ph.D. Master's and Bachelor's students at UTD to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
