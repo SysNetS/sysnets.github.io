@@ -1,3 +1,12 @@
+- title: "WCDCAnalyzer: Scalable Security Analysis of Wi-Fi Certified Device Connectivity Protocols"
+  year: 2026
+  description: "Disaggregated computer architectures are emerging as an interesting paradigm according to which the components of a traditional monolithic server, such as CPU, memory, storage, and networking, are separated into distinct, often independently managed units that communicate over a network. Disaggregation can not only offer benefits such as greater flexibility, scalability, and resource optimization, but it can also enhance security. For example, in the context of enterprise routing, it can offer fine-grained control over the network in that allows one to deploy security policies, access control rules, and threat detection mechanisms more precisely, ensuring that only authorized traffic flows through the enterprise environment - thus enabling the zero-trust paradigm. It makes patch management easier, because its modularity allows different components to be patched independently. The same benefits translate also to cellular networks. Disaggregation is a key feature of the open radio access network (O-RAN) paradigm - whose goal is to make the radio access network intelligent, virtualized and fully interoperable. A disaggregation architecture has been proposed for post-quantum security for optical and packet transport equipment. However, disaggregation also introduces several unique security risks, such as increased attack surfaces, increased sensitive data exposure and data corruption, increased difficulty in tracing data provenance, insecure isolation among different components, insecure APIs. Also, well known security technologies, such as trusted execution environments, may have to be redesigned in the context of disaggregated architectures. In this talk, after an overview of those benefits and concerns, we focus on research approaches proposed to address some of these concerns in the context of O-RAN and in trusted execution environments."
+  authors: "Zilin Shen, <b>Imtiaz Karim</b>, and Elisa Bertino"
+  link:
+    url: 
+    display: Network and Distributed System Security Symposium (NDSS), 2026.
+    pdf: 
+  highlight: 0
 
 - title: "Security Opportunities and Challenges for Disaggregated Architectures"
   year: 2025
