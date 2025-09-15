@@ -240,7 +240,19 @@ permalink: /team/
 
 
 
+# Alumni
 
++ Sharika Kumar (Spring 2023 - Fall 2024), Ph.D. Student, Ohio State University
+
+  Research: Vehicular Networks Security
+
+  Author of  Name Management Protocol Paper <a href="https://www.ndss-symposium.org/ndss-paper/auto-draft-466/" target="_blank">[VehicleSec 2024]</a> 
+
+
+
++ Benjamin Nelson Bond (Spring 2023 - Fall 2023), Ph.D. Student, Purdue University
+
+  Research: System security
 
 
 
