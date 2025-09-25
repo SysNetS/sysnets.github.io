@@ -58,7 +58,11 @@ permalink: /publications/
 <!-- ## Patents  -->
 
 ## Full List of publications
+
+
 ### Papers
+
+(&#9883;)<sup>a</sup> and (&#9883;)<sup>m</sup> are students advised and mentored by me, respectively. 
 
 {% for publi in site.data.publist %}
 
