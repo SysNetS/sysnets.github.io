@@ -1,3 +1,14 @@
+- title: "TIMESAFE: Timing Interruption Monitoring and Security Assessment for Fronthaul Environments"
+  year: 2026
+  description: ""
+  authors: "Joshua Groen, Simone Di Valerio, <u>Imtiaz Karim</u>, Davide Villa, Yiwei Zhang<sup>m</sup>, Leonardo Bonati, Michele Polese, Salvatore D'Oro, Tomasso Melodia, Elisa Bertino, Francesca Cuomo, and Kaushik Chowdhury "
+  link:
+    url: https://arxiv.org/abs/2412.13049
+    display: ACM Transaction on Privacy and Security (ACM TOPS), 2025.
+    pdf: https://arxiv.org/abs/2412.13049
+  highlight: 0
+
+
 - title: "LLMalMorph: On The Feasibility of Generating Variant Malware using Large-Language-Models"
   year: 2026
   description: ""
