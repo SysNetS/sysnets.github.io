@@ -10,8 +10,8 @@ permalink: /
 
 <ins>**Sys**</ins>tem and <ins>**Net**</ins>work <ins>**S**</ins>ecurity (**SysNetS**) lab is part of the Department of Computer Science at the<a href="https://www.utdallas.edu/" target="_blank"> University of Texas at Dallas <i class="fa fa-external-link"></i></a> lead by PI: <a href="https://www.imtiazkarim.net/" target="_blank"> Imtiaz Karim  <i class="fa fa-external-link"></i></a>.
 
- <div id="homeid" class="col-sm-14">
- <h3><ins> <center> We are hiring 2-3 Ph.D. students in Spring 2026 and Fall 2026. If you are interested fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSf8Y0qT1Kh-ZSQK0JvHAYkdZ9-8pP2CiL7jPWgBQwsExin6Pw/viewform" target="_blank"> form.  <i class="fa fa-external-link"></i></a> </center> </ins> </h3> 
+ <!-- <div id="homeid" class="col-sm-14"> -->
+ <!-- <h3><ins> <center> We are hiring 2-3 Ph.D. students in Spring 2026 and Fall 2026. If you are interested fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSf8Y0qT1Kh-ZSQK0JvHAYkdZ9-8pP2CiL7jPWgBQwsExin6Pw/viewform" target="_blank"> form.  <i class="fa fa-external-link"></i></a> </center> </ins> </h3>  -->
 
 
 
