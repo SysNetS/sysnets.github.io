@@ -36,3 +36,17 @@
   interest1: Network Security
   interest2: Automated Reasoning  
 
+
+- name:  Osamah Alzacko
+  photo: Osamah.jpg
+  info: PhD Student 
+  email: Osamah.Alzacko@UTDallas.edu
+  link:  https://www.linkedin.com/in/osamah-alzacko-5686aa79/
+  number_educ: 2
+  education1: M.Sc in CSE, <a href="https://uomosul.edu.iq/en/" target="_blank">University of Mosul</a>. 2025
+  education2: B.Sc in CSE, <a href="https://uomosul.edu.iq/en/" target="_blank">University of Mosul</a>. 2013
+  number_rec: 2
+  interest1: Data and Network Security
+  interest2: Cyber Security 
+
+
