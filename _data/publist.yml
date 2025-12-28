@@ -27,7 +27,7 @@
   link:
     url: 
     display: Network and Distributed System Security Symposium (NDSS), 2026.
-    pdf: 
+    pdf: WCDCAnalyzer.pdf
   highlight: 0
 
 - title: "Security Opportunities and Challenges for Disaggregated Architectures"
