@@ -201,7 +201,7 @@
     display:  ACM Conference on Computer (CCS), 2021
     pdf: ccs_2021_dikeue.pdf
     <!-- slides: -->
-  highlight: 1
+  highlight: 0
 
 
 - title: "ProChecker: An Automated Security and Privacy Analysis Framework for 4G LTE Protocol Implementations"
