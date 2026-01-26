@@ -19,7 +19,7 @@
   link:
     url: https://www.ida.liu.se/labs/rtslab/publications/2026/federica.pdf
     display: International Conference on Computing, Networking and Communications (ICNC), 2025
-    pdf: https://www.ida.liu.se/labs/rtslab/publications/2026/federica.pdf
+    # pdf: https://www.ida.liu.se/labs/rtslab/publications/2026/federica.pdf
   highlight: 0
 
 
@@ -31,7 +31,7 @@
   link:
     url: https://arxiv.org/abs/2412.13049
     display: ACM Transaction on Privacy and Security (ACM TOPS), 2025.
-    pdf: https://arxiv.org/abs/2412.13049
+    # pdf: https://arxiv.org/abs/2412.13049
   highlight: 0
 
 
@@ -42,7 +42,7 @@
   link:
     url: https://arxiv.org/abs/2507.09411
     display: IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS), 2025.
-    pdf: https://arxiv.org/abs/2507.09411
+    # pdf: https://arxiv.org/abs/2507.09411
   highlight: 0
 
 
