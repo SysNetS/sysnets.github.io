@@ -1,3 +1,16 @@
+- title: "Breaking 5G on The Lower Layer"
+  year: 2026
+  image: 
+  description:
+  authors:  Subangkar Karmaker Shanto<sup>m</sup>, <u>Imtiaz Karim</u>, Elisa Bertino
+  link:
+    url: 
+    display: Workshop on Security and Privacy of Next-Generation Networks (FutureG), 2026 (co-located with NDSS).
+    # pdf: 
+    <!-- slides: -->
+  highlight: 1
+
+
 - title: "VWAttakcer: A Systematic Security Testing Framework for Voice over WiFi User Equipments"
   year: 2026
   image: vwattacker.png
