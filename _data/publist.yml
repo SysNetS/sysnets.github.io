@@ -8,7 +8,7 @@
     display: Workshop on Security and Privacy of Next-Generation Networks (FutureG), 2026 (co-located with NDSS).
     # pdf: 
     <!-- slides: -->
-  highlight: 1
+  highlight: 0
 
 
 - title: "VWAttakcer: A Systematic Security Testing Framework for Voice over WiFi User Equipments"
