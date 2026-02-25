@@ -50,3 +50,18 @@
   interest2: Cyber Security 
 
 
+- name:  Md Nahiyan Uddin
+  photo: Nahiyan.jpg
+  info: PhD Student 
+  email: Md.Uddin@UTDallas.edu
+  link:  https://scholar.google.com/citations?user=M3EuAHgAAAAJ&hl=en
+  number_educ: 1
+  education1: B.Sc in CSE, <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>. 2019
+  number_rec: 4
+  interest1: Retrieval Augmented Generation
+  interest2: Large Language Model
+  interest3: Natural Language Processing
+  interest4: Transportation Cybersecurity
+
+
+
