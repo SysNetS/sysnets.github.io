@@ -54,3 +54,28 @@
   number_rec: 2
   interest1: LLM for Vulnerability Detection
   interest2: Optimized Post-Quantum Crypto 
+
+
+
+- name: Zilin Shen
+  photo: Zilin.jpg
+  info: PhD Student
+  email: shen624@purdue.edu
+  link: https://zilinlin.github.io/
+  number_educ: 1
+  education1: BS in Software Engineering, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">, Tsinghua University</a>. 2022
+  number_rec: 1
+  interest1: Network Security  
+
+
+- name: Subangkar Karmaker Shanto
+  photo: Subangkar.jpg
+  info: PhD Student
+  email: sshanto@purdue.edu
+  link: https://subangkar.github.io/
+  number_educ: 1
+  education1: B.Sc in CSE, <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>. 2021
+  number_rec: 3
+  interest1: AI Runtime Verification
+  interest2: LLM Security
+  interest3: Network Security
