@@ -57,15 +57,17 @@
 
 
 
-- name: Zilin Shen
-  photo: Zilin.jpg
+- name: Md Ajwad Akil
+  photo: Akil.jpg
   info: PhD Student
-  email: shen624@purdue.edu
-  link: https://zilinlin.github.io/
+  email: makil@purdue.edu
+  link: https://ajakil.github.io/home/
   number_educ: 1
-  education1: BS in Software Engineering, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">, Tsinghua University</a>. 2022
-  number_rec: 1
-  interest1: Network Security  
+  education1: B.Sc in CSE, <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>. 2022
+  number_rec: 3
+  interest1: Malware Analysis with GenAI and LLM
+  interest2: Adversarial Malware Generation
+  interest3: AI Safety
 
 
 - name: Subangkar Karmaker Shanto
