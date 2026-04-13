@@ -1,3 +1,16 @@
+- title: "FuzzBT: Holistic State-Guided Fuzzing for Bluetooth Host Stack"
+  year: 2026
+  image: 
+  description:
+  authors:  Sungwoo Kim, Hui Peng, <u>Imtiaz Karim</u>, Ruoyu Wu, Jianliang Wu, Elisa Bertino, Mathias Payer, and Dave (Jing) Tian 
+  link:
+    url: 
+    display: The 20th USENIX WOOT Conference on Offensive Technologies (WOOT), 2026.
+    # pdf: 
+    <!-- slides: -->
+  highlight: 0
+
+
 - title: "Breaking 5G on The Lower Layer"
   year: 2026
   image: 
