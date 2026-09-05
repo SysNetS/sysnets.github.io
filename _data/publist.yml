@@ -76,6 +76,16 @@
   highlight: 1
 
 
+- title: "WCDCAnalyzer: Scalable Security Analysis of Wi-Fi Certified Device Connectivity Protocols"
+  year: 2026
+  description: ""
+  authors: "Zilin Shen<sup>m</sup>, <u>Imtiaz Karim</u>, and Elisa Bertino"
+  link:
+    url: 
+    display: Network and Distributed System Security Symposium (NDSS), 2026.
+    pdf: WCDCAnalyzer.pdf
+  highlight: 0
+
 
 - title: "Mission Explainable: From Feature Attribution to Mitigation in 5G Anomaly Detection"
   year: 2025
@@ -88,9 +98,8 @@
   highlight: 0
 
 
-
 - title: "TIMESAFE: Timing Interruption Monitoring and Security Assessment for Fronthaul Environments"
-  year: 2026
+  year: 2025
   description: ""
   authors: "Joshua Groen, Simone Di Valerio, <u>Imtiaz Karim</u>, Davide Villa, Yiwei Zhang<sup>m</sup>, Leonardo Bonati, Michele Polese, Salvatore D'Oro, Tomasso Melodia, Elisa Bertino, Francesca Cuomo, and Kaushik Chowdhury "
   link:
@@ -101,7 +110,7 @@
 
 
 - title: "LLMalMorph: On The Feasibility of Generating Variant Malware using Large-Language-Models"
-  year: 2026
+  year: 2025
   description: ""
   authors: "Md Ajwad Akil<sup>m</sup>, Adrian Shuai Li, <u>Imtiaz Karim</u>, Arun Iyengar, Ashish Kundu, Vinny Parla, Elisa Bertino"
   link:
@@ -111,16 +120,6 @@
   highlight: 0
   bestpaper: 1
 
-
-- title: "WCDCAnalyzer: Scalable Security Analysis of Wi-Fi Certified Device Connectivity Protocols"
-  year: 2026
-  description: ""
-  authors: "Zilin Shen<sup>m</sup>, <u>Imtiaz Karim</u>, and Elisa Bertino"
-  link:
-    url: 
-    display: Network and Distributed System Security Symposium (NDSS), 2026.
-    pdf: WCDCAnalyzer.pdf
-  highlight: 0
 
 - title: "Security Opportunities and Challenges for Disaggregated Architectures"
   year: 2025
@@ -154,6 +153,7 @@
     pdf: codaspy_2025_nargis.pdf
   highlight: 0
 
+
 - title: "AKMA+: Privacy-Enhanced and Standard-Compatible AKMA for 5G Communications"
   year: 2025
   description: "The Authentication and Key Management for Applications (AKMA) protocol is a fundamental building block for security and privacy of 5G cellular networks. Therefore, it is critical that the protocol is free of vulnerabilities that can be exploited by attackers. Unfortunately, based on a detailed analysis of AKMA, we show that AKMA has several vulnerabilities that may lead to security and privacy breaches. We define AKMA+, an enhanced protocol for 5G communication that protects against security and privacy breaches while maintaining compatibility with existing standards. AKMA+ includes countermeasures for protecting communication between the user equipment (UE) and application functions (AFs) from attackers, including those within the home public land mobile network. These countermeasures ensure mutual authentication between the UE and the AKMA anchor function without altering the protocol flow. We also address vulnerabilities related to subscriber and AKMA key identifiers that could be exploited in linkability attacks. By obfuscating this data, AKMA+ prevents attackers from associating a target UE with its past application access. We employ formal verification to demonstrate that AKMA+ achieves key security and privacy objectives. We conduct extensive experiments demonstrating that AKMA+ incurs acceptable computational overhead, bandwidth costs, and UE battery consumption."
@@ -166,7 +166,7 @@
 
 
 - title: "Gotta Detect ’Em All: Fake Base Station and Multi-Step Attack Detection in Cellular Networks"
-  year: 2024
+  year: 2025
   image: FBSDetector.png
   description: "Fake base stations (FBSes) pose a significant security threat by impersonating legitimate base stations (BSes). Though efforts have been made to defeat this threat, up to this day, the presence of FBSes and the multi-step attacks (MSAs) stemming from them can lead to unauthorized surveillance, interception of sensitive information, and disruption of network services. Therefore, detecting these malicious entities is crucial to ensure the security and reliability of cellular networks. Traditional detection methods often rely on additional hardware, predefined rules, signal scanning, changes to protocol specifications, or cryptographic mechanisms that have limitations and incur huge infrastructure costs in accurately identifying FBSes. In this paper, we develop FBSDetector–an effective and efficient detection solution that can reliably detect FBSes and MSAs from layer-3 network traces using machine learning (ML) at the user equipment (UE) side. To develop FBSDetector, we create FBSAD and MSAD, the first-ever high-quality and large-scale datasets incorporating instances of FBSes and 21 MSAs. These datasets capture the network traces in different real-world cellular network scenarios (including mobility and different attacker capabilities) incorporating legitimate BSes and FBSes. Our novel ML framework, specifically designed to detect FBSes in a multi-level approach for packet classification using stateful LSTM with attention and trace level classification and MSAs using graph learning, can effectively detect FBSes with an accuracy of 96% and a false positive rate of 2.96%, and recognize MSAs with an accuracy of 86% and a false positive rate of 3.28%. We deploy FBSDetector as a real-world solution to protect end-users through a mobile app and validate it in real-world environments. Compared to the existing heuristic-based solutions that fail to detect FBSes, FBSDetector can detect FBSes in the wild in real time."
   authors: "<u>Imtiaz Karim*</u>, Kazi Samin Mubasshir*<sup>m</sup>, and Elisa Bertino, (&#x2a; joint first authors)"
@@ -201,6 +201,7 @@
     pdf: vehiclesec_2024_name_management.pdf
   highlight: 0
 
+
 - title: "Segment-Based Formal Verification of WiFi Fragmentation and Power Save Mode"
   year: 2024
   description: "The IEEE 802.11 family of standards, better known as WiFi, is a widely used protocol utilized by billions of users. Previous works on WiFi formal verification have mostly focused on the four-way handshake and other security aspects. However, recent works have uncovered severe vulnerabilities in functional aspects of WiFi, which can cause information leakage for billions of devices. No formal analysis method exists able to reason on the functional aspects of the WiFi protocol. In this paper, we take the first steps in addressing this gap and present an extensive formal analysis of the functional aspects of the WiFi protocol, more specifically, the fragmentation and the power-save-mode process. To achieve this, we design a novel segment-based formal verification process and introduce a practical threat model (i.e., MAC spoofing) in Tamarin to reason about the various capabilities of the attacker. To this end, we verify 68 properties extracted from WiFi protocol specification, find 3 vulnerabilities from the verification, verify 3 known attacks, and discover 2 new issues. These vulnerabilities and issues affect 14 commercial devices out of 17 tested cases, showing the prevalence and impact of the issues. Apart from this, we show that the proposed countermeasures indeed are sufficient to address the issues. We hope our results and analysis will help vendors adopt the countermeasures and motivate further research into the verification of the functional aspects of the WiFi protocol."
@@ -223,7 +224,6 @@
   highlight: 0
 
 
-
 - title: "BLEDiff: Scalable and Property-Agnostic Noncompliance Checking for BLE Implementations"
   year: 2023
   image: BLEDiff.png
@@ -235,6 +235,7 @@
     pdf: blediff-s&p-2023.pdf
     <!-- slides: -->
   highlight: 1
+
 
 - title: "VWAnalyzer: A Systematic Security Analysis Framework for the Voice over WiFi Protocol"
   year: 2022
@@ -256,6 +257,7 @@
     display:   International Conference on Networking, Systems, and Security (NSysS), 2021 (Research directional paper).
     pdf: nsyss_2021_ai_network.pdf
   highlight: 0
+
 
 - title: "Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G LTE Cellular Devices"
   year: 2021
@@ -281,6 +283,7 @@
   highlight: 0
   nomination: 1
 
+
 - title: "ATFuzzer: Dynamic Analysis Framework of AT Interface for Android Smartphones "
   year: 2020
   description: "Application processors of modern smartphones use the AT interface for issuing high-level commands (or AT-commands) to the baseband processor for performing cellular network operations (e.g., placing a phone call). Vulnerabilities in this interface can be leveraged by malicious USB or Bluetooth peripherals to launch pernicious attacks. In this article, we propose ATFuzzer, which uses a grammar-guided evolutionary fuzzing approach that mutates production rules of the AT-command grammar instead of concrete AT commands to evaluate the correctness and robustness of the AT-command execution process. To automate each step of the analysis pipeline, ATFuzzer first takes as input the 3GPP and other vendor-specific standard documents and, following several heuristics, automatically extracts the seed AT command grammars for the fuzzer. ATFuzzer uses the seed to generate both valid and invalid grammars, following our cross-over and mutation strategies to evaluate both the integrity and execution of AT-commands. Empirical evaluation of ATFuzzer on 10 Android smartphones from 6 vendors revealed 4 invalid AT command grammars over Bluetooth and 14 over USB with implications ranging from DoS, downgrade of cellular protocol version, to severe privacy leaks. The vulnerabilities along with the invalid AT-command grammars were responsibly disclosed to affected vendors and assigned CVEs."
@@ -292,6 +295,7 @@
   highlight: 0
   nomination: 0
 
+
 - title: "Opening Pandora’s Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones  "
   year: 2019
   description: "This paper focuses on checking the correctness and robustness of the AT command interface exposed by the cellular baseband processor through Bluetooth and USB. A device's application processor uses this interface for issuing high-level commands (or, AT commands) to the baseband processor for performing cellular network operations (e.g., placing a phone call). Vulnerabilities in this interface can be leveraged by malicious Bluetooth peripherals to launch pernicious attacks including DoS and privacy attacks. To identify such vulnerabilities, we propose ATFuzzer that uses a grammar-guided evolutionary fuzzing approach which mutates production rules of the AT command grammar instead of concrete AT commands. Empirical evaluation with ATFuzzer on 10 Android smartphones from 6 vendors revealed 4 invalid AT command grammars over Bluetooth and 13 over USB with implications ranging from DoS, downgrade of cellular protocol version (e.g., from 4G to 3G/2G) to severe privacy leaks. The vulnerabilities along with the invalid AT command grammars were responsibly disclosed to affected vendors and two of the reported vulnerabilities have been already assigned CVEs (CVE-2019-16400 and CVE-2019-16401)."
@@ -302,6 +306,7 @@
     pdf: acsac_2019_atfuzzer.pdf
   highlight: 0
   award: 1
+
 
 - title: "5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol "
   year: 2019
