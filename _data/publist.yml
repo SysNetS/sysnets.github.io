@@ -1,3 +1,42 @@
+- title: "Mind the Gap: Compositional Verification Exposes DNSSEC's Hidden Vulnerabilities"
+  year: 2026
+  image:
+  description:
+  authors: "Qifan Zhang, Zilin Shen<sup>m</sup>, <u>Imtiaz Karim</u>, Elisa Bertino, Daiping Liu, and Zhou Li"
+  link:
+    url:
+    display: ACM Conference on Computer and Communications Security (CCS), 2026.
+    # pdf:
+    <!-- slides: -->
+  highlight: 0
+
+
+- title: "OTel: Building Domain-Specialized Telecom LLM Foundations for Intelligent Networks"
+  year: 2026
+  image:
+  description:
+  authors: "Farbod Tavakkoli, Roderic Paulk, Jorden Terrazas, Kenneth Church, Mark Austin, Louis Powell, Gregory Diamos, Lina Bariah, Syed Ali Raza Zaidi, Maryam Hafeez, Ali Maatouk, and <u>Imtiaz Karim</u>"
+  link:
+    url:
+    display: The ACM AI Leadership Summit, Breakthrough Impact Highlights Track (ACM-AI), 2026.
+    # pdf:
+    <!-- slides: -->
+  highlight: 0
+
+
+- title: "Securing Agentic AI: From Per-Action Checks to Trajectory Assurance"
+  year: 2026
+  image:
+  description:
+  authors: "Alireza Lotfi<sup>m</sup>, Subangkar Karmaker Shanto<sup>m</sup>, <u>Imtiaz Karim</u>, and Elisa Bertino"
+  link:
+    url:
+    display: The ACM AI Leadership Summit, Visionary Papers Track (ACM-AI), 2026.
+    # pdf:
+    <!-- slides: -->
+  highlight: 0
+
+
 - title: "FuzzBT: Holistic State-Guided Fuzzing for Bluetooth Host Stack"
   year: 2026
   image: 
