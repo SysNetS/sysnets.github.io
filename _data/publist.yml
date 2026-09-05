@@ -17,7 +17,7 @@
   description:
   authors: "Farbod Tavakkoli, Roderic Paulk, Jorden Terrazas, Kenneth Church, Mark Austin, Louis Powell, Gregory Diamos, Lina Bariah, Syed Ali Raza Zaidi, Maryam Hafeez, Ali Maatouk, and <u>Imtiaz Karim</u>"
   link:
-    url:
+    url: https://arxiv.org/abs/2608.15436
     display: The ACM AI Leadership Summit, Breakthrough Impact Highlights Track (ACM-AI), 2026.
     # pdf:
     <!-- slides: -->
@@ -30,7 +30,7 @@
   description:
   authors: "Alireza Lotfi<sup>m</sup>, Subangkar Karmaker Shanto<sup>m</sup>, <u>Imtiaz Karim</u>, and Elisa Bertino"
   link:
-    url:
+    url: https://arxiv.org/abs/2608.01558
     display: The ACM AI Leadership Summit, Visionary Papers Track (ACM-AI), 2026.
     # pdf:
     <!-- slides: -->
@@ -56,7 +56,7 @@
   description:
   authors:  Subangkar Karmaker Shanto<sup>m</sup>, <u>Imtiaz Karim</u>, Elisa Bertino
   link:
-    url: 
+    url: https://arxiv.org/abs/2602.10250
     display: Workshop on Security and Privacy of Next-Generation Networks (FutureG), 2026 (co-located with NDSS).
     # pdf: 
     <!-- slides: -->
