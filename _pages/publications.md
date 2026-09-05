@@ -74,6 +74,7 @@ permalink: /publications/
 
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   {% if publi.award == 1 %}<h4 style="color:Tomato;"><strong>Distinguished Paper Award</strong></h4>{% endif %}
+  {% if publi.bestpaper == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award</strong></h4>{% endif %}
   {% if publi.nomination == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award nomination </strong></h4>{% endif %}
 {% endfor %}
 
@@ -91,6 +92,7 @@ permalink: /publications/
 
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   {% if publi.award == 1 %}<h4 style="color:Tomato;"><strong>Distinguished Paper Award</strong></h4>{% endif %}
+  {% if publi.bestpaper == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award</strong></h4>{% endif %}
   {% if publi.nomination == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award nomination </strong></h4>{% endif %}
 {% endfor %}
 
@@ -107,6 +109,7 @@ permalink: /publications/
 
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   {% if publi.award == 1 %}<h4 style="color:Tomato;"><strong>Distinguished Paper Award</strong></h4>{% endif %}
+  {% if publi.bestpaper == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award</strong></h4>{% endif %}
   {% if publi.nomination == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award nomination </strong></h4>{% endif %}
 {% endfor %}
 
@@ -123,6 +126,7 @@ permalink: /publications/
 
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   {% if publi.award == 1 %}<h4 style="color:Tomato;"><strong>Distinguished Paper Award</strong></h4>{% endif %}
+  {% if publi.bestpaper == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award</strong></h4>{% endif %}
   {% if publi.nomination == 1 %}<h4 style="color:Tomato;"><strong>Best Paper Award nomination </strong></h4>{% endif %}
 {% endfor %}
 

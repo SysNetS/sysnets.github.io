@@ -109,6 +109,7 @@
     display: IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS), 2025.
     # pdf: https://arxiv.org/abs/2507.09411
   highlight: 0
+  bestpaper: 1
 
 
 - title: "WCDCAnalyzer: Scalable Security Analysis of Wi-Fi Certified Device Connectivity Protocols"
