@@ -1,3 +1,16 @@
+- title: "A2ABreak: Systematic Security Analysis of the A2A Protocol"
+  year: 2026
+  image: A2ABreak.png
+  description: "The Agent2Agent (A2A) protocol, now governed by the Linux Foundation, is an open standard that enables autonomous AI agents to discover, authenticate with, and delegate tasks to one another across organizational boundaries. Designed to complement the Model Context Protocol (MCP) for tool integration, A2A is rapidly emerging as the horizontal communication layer of the multi-agent ecosystem. Yet the protocol's security has received no systematic analysis. This paper presents A2ABreak, the first rigorous systematic security analysis of the A2A protocol. We introduce a novel framework that utilizes an LLM-assisted extraction of a verified finite-state machine directly from the natural-language specification, producing a unified model of 37 states and 76 transitions from 929 formalized statements, and then systematically reasons over this model to discover protocol-level vulnerabilities through adversarial verification, under a full-compliance assumption. Our analysis uncovers 11 new vulnerabilities, each exploitable by a specification-compliant adversary without requiring any implementation flaw. Among the findings are cross-client context injection through unprotected context identifiers, credential harvesting via multi-hop identity loss in delegation chains, and data exfiltration through rogue agents advertising unattested capability claims. A2ABreak achieves 73.3% precision and 84.6% F1 against independent expert review, while a zero-shot LLM baseline operating over the same specification produces zero confirmed findings, demonstrating that explicit formal grounding is essential for sound protocol security analysis."
+  authors: "Alireza Lotfi<sup>m</sup>, Mirza Masfiqur Rahman<sup>m</sup>, <u>Imtiaz Karim</u>, and Elisa Bertino"
+  link:
+    url: https://github.com/arlotfi79/A2ABreak
+    display: IEEE Annual Computer Security Applications Conference (ACSAC), 2026.
+    pdf: acsac_2026_a2abreak.pdf
+    <!-- slides: -->
+  highlight: 1
+
+
 - title: "Mind the Gap: Compositional Verification Exposes DNSSEC's Hidden Vulnerabilities"
   year: 2026
   image:
