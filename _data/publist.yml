@@ -247,7 +247,7 @@
     display:  IEEE Symposium on Security and Privacy (IEEE S&P), 2023
     pdf: blediff-s&p-2023.pdf
     <!-- slides: -->
-  highlight: 1
+  highlight: 0
 
 
 - title: "VWAnalyzer: A Systematic Security Analysis Framework for the Voice over WiFi Protocol"
