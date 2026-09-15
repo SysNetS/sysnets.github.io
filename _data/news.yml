@@ -1,5 +1,5 @@
 - date: September 9, 2026
-  headline: A2ABreak got accepted to ACSAC 2026!
+  headline: <a href='/docs/acsac_2026_a2abreak.pdf'>A2ABreak</a> got accepted to ACSAC 2026!
 
 - date: September 5, 2026
   headline: DNSSECVerif got accepted to CCS 2026!
@@ -8,7 +8,7 @@
   headline: Our <a href='https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2548946'>NSF VINES Track 1</a> proposal on quantum-secure NextG networks has been funded!
 
 - date: August 1, 2026
-  headline: Two papers accepted to ACM AI Summit 2026.
+  headline: Two papers (<a href='https://arxiv.org/abs/2608.15436'>OTel</a> and <a href='https://arxiv.org/abs/2608.01558'>Securing Agentic AI</a>) accepted to ACM AI Summit 2026.
 
 - date: July 20, 2026
   headline: Invited to serve on the PC of DSN 2027.
