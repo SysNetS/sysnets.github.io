@@ -20,11 +20,24 @@ permalink: /
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+            <a href="{{ site.url }}{{ site.baseurl }}/docs/acsac_2026_a2abreak.pdf" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/a2abreak.gif" alt="A2ABreak: systematic security analysis of the A2A protocol (ACSAC 2026)" /></a>
+        </div>
+        <div class="item">
+            <a href="{{ site.url }}{{ site.baseurl }}/docs/VWAttacker.pdf" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vwattacker.gif" alt="VWAttacker: security testing of Voice over WiFi user equipments (INFOCOM 2026)" /></a>
+        </div>
+        <div class="item">
+            <a href="{{ site.url }}{{ site.baseurl }}/docs/fbs-detector-usenix2025.pdf" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fbsdetector.gif" alt="FBSDetector: fake base station detection on commercial phones (USENIX Security 2025)" /></a>
+        </div>
+        <div class="item">
             <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5g.gif" alt="5G" /></a>
         </div>
         <div class="item">
