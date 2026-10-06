@@ -242,6 +242,22 @@ permalink: /team/
 
 # Alumni
 
++ Zilin Shen (Fall 2023 - Fall 2026), Ph.D., Purdue University
+
+  Research: Wi-Fi and Network Protocol Security
+
+  Author of WCDCAnalyzer <a href="/docs/WCDCAnalyzer.pdf" target="_blank">[NDSS 2026]</a> and Wi-Fi Verification <a href="/docs/asiaccs_2024_WiFi-Verification.pdf" target="_blank">[ASIACCS 2024]</a>
+
+
+
++ Yiwei Zhang (Fall 2023 - Fall 2026), Ph.D., Purdue University
+
+  Research: Secure Federated Learning for 5G
+
+  Author of Secure Aggregation for Federated Learning in 5G <a href="https://arxiv.org/pdf/2505.07148" target="_blank">[WiSec 2025]</a>
+
+
+
 + Sharika Kumar (Spring 2023 - Fall 2024), Ph.D. Student, Ohio State University
 
   Research: Vehicular Networks Security

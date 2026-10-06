@@ -21,16 +21,6 @@
   interest1: Machine Learning
   interest2: 5G
 
-- name: Zilin Shen
-  photo: Zilin.jpg
-  info: PhD Student
-  email: shen624@purdue.edu
-  link: https://zilinlin.github.io/
-  number_educ: 1
-  education1: BS in Software Engineering, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">, Tsinghua University</a>. 2022
-  number_rec: 1
-  interest1: Network Security
-
 - name: Mir Imtiaz Mostafiz
   photo: Mir.jpg
   info: PhD Student
@@ -42,19 +32,6 @@
   interest1: Adversarial ML
   interest2: Graph Neural Networks
   interest3: Adversarial Robustness
-
-- name: Yiwei Zhang
-  photo: Yiwei.jpg
-  info: PhD Student
-  email: yiweizhang@purdue.edu
-  link: https://kydahe.github.io/
-  number_educ: 2
-  education1: BS in Information Security, <a href="https://www.xidian.edu.cn/" target="_blank">Xidian University</a>. 2019
-  education2: MS in CS, <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University </a>. 2022
-  number_rec: 2
-  interest1: LLM for Vulnerability Detection
-  interest2: Optimized Post-Quantum Crypto 
-
 
 - name: Md Ajwad Akil
   photo: Ajwad.jpg
