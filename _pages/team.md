@@ -242,7 +242,7 @@ permalink: /team/
 
 # Alumni
 
-+ Zilin Shen (Fall 2023 - Fall 2026), Ph.D., Purdue University
++ Zilin Shen (Fall 2023 - Fall 2026), Ph.D. Student, Purdue University
 
   Research: Wi-Fi and Network Protocol Security
 
@@ -250,7 +250,7 @@ permalink: /team/
 
 
 
-+ Yiwei Zhang (Fall 2023 - Fall 2026), Ph.D., Purdue University
++ Yiwei Zhang (Fall 2023 - Fall 2026), Ph.D. Student, Purdue University
 
   Research: Secure Federated Learning for 5G
 
