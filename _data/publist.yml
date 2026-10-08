@@ -1,16 +1,3 @@
-- title: "OTel: Open Telco AI Datasets, Benchmarks, and Models"
-  year: 2026
-  image:
-  description:
-  authors: "Farbod Tavakkoli, Gregory Diamos, Kenneth Church, David Kanter, Mark Austin, <u>Imtiaz Karim</u>, Mirza Masfiqur Rahman<sup>m</sup>, Merouane Abdelkader Debbah, Zeinab Nezami, Ali Maatouk, Leandros Tassiulas, Rex Ying, Nick Sorros, Louis Powell, Nikolaos Vasiloglou, Ashish Vaswani, Somanshu Singla, and Adarsh Chaluvaraju"
-  link:
-    url: https://github.com/farbodtavakkoli/OTel
-    display: The 40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026, Evaluations & Datasets Track, Spotlight.
-    pdf: neurips_2026_otel.pdf
-    <!-- slides: -->
-  highlight: 0
-
-
 - title: "A2ABreak: Systematic Security Analysis of the A2A Protocol"
   year: 2026
   image: A2ABreak.png
