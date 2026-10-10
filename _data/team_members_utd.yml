@@ -65,3 +65,14 @@
 
 
 
+- name:  Ramkrishna Saha
+  photo: Ramkrishna.jpg
+  info: PhD Student 
+  email: Ramkrishna.saha@utdallas.edu
+  link:  https://www.linkedin.com/in/rk-saha/
+  number_educ: 2
+  education1: M.Sc in CS, <a href="https://www.utdallas.edu/" target="_blank">The University of Texas at Dallas</a>. 2025
+  education2: B.Sc in CSE, <a href="https://www.bracu.ac.bd/" target="_blank">Brac University</a>. 2019
+  number_rec: 2
+  interest1: Post Quantum Cryptography
+  interest2: Network Security
