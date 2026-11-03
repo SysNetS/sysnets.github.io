@@ -285,6 +285,20 @@ permalink: /team/
 
 
 
+# Thesis Committees
+
++ Tahmid Siddiqui (2026), Ph.D. Dissertation
+
++ Hasnat Jamil Bhuiyan (2026), Ph.D. Dissertation
+
++ Akib Jawad Ononto (2026), Ph.D. Dissertation
+
++ Avilash Sarthak Rath (2026), Ph.D. Dissertation
+
++ Arnab Dev (2026), Undergraduate Thesis
+
+
+
 <!-- ## Other Student Members -->
 <!-- <div class="row"> -->
 
