@@ -1,3 +1,16 @@
+- title: "Future-Proofing Authentication Against Insecure Bootstrapping for 5G Networks: Feasibility, Resiliency, and Accountability"
+  year: 2026
+  image:
+  description:
+  authors: "Saleh Darzi, Mirza Masfiqur Rahman<sup>m</sup>, <u>Imtiaz Karim</u>, Rouzbeh Behnia, Attila A. Yavuz, and Elisa Bertino"
+  link:
+    url:
+    display: Elsevier Computer Networks (COMNET), 2026.
+    # pdf:
+    <!-- slides: -->
+  highlight: 0
+
+
 - title: "A2ABreak: Systematic Security Analysis of the A2A Protocol"
   year: 2026
   image: A2ABreak.png
